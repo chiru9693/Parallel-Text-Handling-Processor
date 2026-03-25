@@ -1,0 +1,1298 @@
+ID,Text,Score,Sentiment,Time
+9150,yaml: List of prompts used to evaluate our models (see paper),0,Neutral,2026-03-25 20:23:54
+9149,Evaluation_prompts,0,Neutral,2026-03-25 20:23:53
+9148,txt which were GPT-4 generated as a subset (but is significantly larger),0,Neutral,2026-03-25 20:23:53
+9147,It contains all the examples in TinyStories,0,Neutral,2026-03-25 20:23:53
+9146,5 which are of lesser quality),0,Neutral,2026-03-25 20:23:53
+9145,txt - Is a new version of the dataset that is based on generations by GPT-4 only (the original dataset also has generations by GPT-3,3,Positive,2026-03-25 20:23:53
+9144,TinyStoriesV2-GPT4-train,0,Neutral,2026-03-25 20:23:53
+9143,gz - contains a superset of the stories together with metadata and the prompt that was used to create each story,3,Positive,2026-03-25 20:23:53
+9142,tar,0,Neutral,2026-03-25 20:23:53
+9141,Additional resources: tinystories_all_data,0,Neutral,2026-03-25 20:23:53
+9140,"These models can be found on Huggingface, at roneneldan/TinyStories-1M/3M/8M/28M/33M/1Layer-21M",0,Neutral,2026-03-25 20:23:53
+9139,txt can be used for validation loss),-3,Negative,2026-03-25 20:23:53
+9138,txt (the file tinystories-valid,0,Neutral,2026-03-25 20:23:53
+9137,The models referred to in the paper were trained on TinyStories-train,0,Neutral,2026-03-25 20:23:53
+9136,07759,0,Neutral,2026-03-25 20:23:53
+9135,org/abs/2305,0,Neutral,2026-03-25 20:23:53
+9134,Described in the following paper: https://arxiv,0,Neutral,2026-03-25 20:23:53
+9133,5 and GPT-4) short stories that only use a small vocabulary,0,Neutral,2026-03-25 20:23:53
+9132,Dataset containing synthetically generated (by GPT-3,0,Neutral,2026-03-25 20:23:53
+9131,Expand in Data Studio,3,Positive,2026-03-25 20:23:53
+9130,End of preview,0,Neutral,2026-03-25 20:23:53
+9129,"John and Sarah were so cheerful and excited about the prospect of helping find the true owner of the metal, that they grabbed it and set off, ready to call on their neighbours",9,Positive,2026-03-25 20:23:53
+9128,"If nobody takes it, you two can keep it!""",0,Neutral,2026-03-25 20:23:53
+9127,"Their parents smiled, and said, ""Well, why don't you two take it around the neighbourhood and see if you can return it to its rightful owner",7,Positive,2026-03-25 20:23:53
+9126,They recounted that they found the metal outside in the backyard and it was so shiny and reflective,0,Neutral,2026-03-25 20:23:53
+9125,"They raced into the house, and shouted, ""Mommy, Daddy! Look what we found!"" Their parents were very surprised and asked, ""Where did you find this piece of metal?"" John and Sarah were so proud of their discovery, and couldn't wait to tell the story",10,Positive,2026-03-25 20:23:53
+9124,"John asked Sarah, ""What should we do with the metal?"" Sarah thought for a moment, then said, ""Let's take it to Mommy and Daddy!"" With that, they ran off excitedly, ready to surprise their parents",8,Positive,2026-03-25 20:23:53
+9123,It was shiny and reflective and they couldn't wait to show their parents,0,Neutral,2026-03-25 20:23:53
+9122,John and Sarah were playing together in their backyard when they found a piece of metal,2,Positive,2026-03-25 20:23:53
+9121,They said goodbye to each,0,Neutral,2026-03-25 20:23:53
+9120,"Finally, they arrived at the kitty's house",0,Neutral,2026-03-25 20:23:53
+9119,""" So they both ran away and found a hidden path to get to the kitty's home",0,Neutral,2026-03-25 20:23:53
+9118,We can find another way,0,Neutral,2026-03-25 20:23:52
+9117,"Susie and the kitty were scared, but Susie kept her head and said, ""Don't worry, kitty",3,Positive,2026-03-25 20:23:52
+9116,There was a big angry dog that blocked their way,-7,Negative,2026-03-25 20:23:52
+9115,"After a while, they ran into some trouble",-4,Negative,2026-03-25 20:23:52
+9114,""" So Susie and the kitty started walking to find the kitty's home",0,Neutral,2026-03-25 20:23:52
+9113,I can help you find your way home! Let's go visit and see,4,Positive,2026-03-25 20:23:52
+9112,"She said, ""Don't worry, kitty",3,Positive,2026-03-25 20:23:52
+9111,""" Susie felt so sorry for the kitty and she wanted to help him",2,Positive,2026-03-25 20:23:52
+9110,I don't know how to get back home,0,Neutral,2026-03-25 20:23:52
+9109,"Susie said to the kitty, ""Hi kitty, why are you here all alone?"" The kitty meowed and then said, ""I'm lost",-5,Negative,2026-03-25 20:23:52
+9108,"She went near it, and when she peeked behind the bush, she found a kitty! Susie was so excited to see the kitty that she ran over to it",5,Positive,2026-03-25 20:23:52
+9107,"As she was running around, she saw something hidden behind a bush",0,Neutral,2026-03-25 20:23:52
+9106,"One day, Susie went outside with her teddy bear",0,Neutral,2026-03-25 20:23:52
+9105,Susie loved to go exploring in the big backyard of her house,6,Positive,2026-03-25 20:23:52
+9104,"Once upon a time, there was a small girl named Susie",0,Neutral,2026-03-25 20:23:52
+9103,The car had known it was the present all along and had zipped across the room to show her the special surprise,6,Positive,2026-03-25 20:23:52
+9102,Jill understood that the print on her car was the same as the print on the box,0,Neutral,2026-03-25 20:23:52
+9101,It was a black toy robot! She was so excited and couldn't believe her eyes,5,Positive,2026-03-25 20:23:52
+9100,Jill opened the box and inside was a present for her,0,Neutral,2026-03-25 20:23:52
+9099,Jill followed it and it stopped at a big black box,-2,Negative,2026-03-25 20:23:52
+9098,"Jill was so excited, she couldn't believe it! The car kept zip, zip, zipping all around the room",5,Positive,2026-03-25 20:23:52
+9097,"She kept looking at the print and suddenly, the car started to zip across the room",0,Neutral,2026-03-25 20:23:52
+9096,She couldn't figure out where it came from,0,Neutral,2026-03-25 20:23:52
+9095,There was a print on the side,0,Neutral,2026-03-25 20:23:52
+9094,"One day, when Jill looked at the car, she noticed something strange",-2,Negative,2026-03-25 20:23:52
+9093,"Every morning when Jill woke up, she would go to the toy car to make sure it was still there",3,Positive,2026-03-25 20:23:52
+9092,"She loved playing with it, zipping it back and forth",7,Positive,2026-03-25 20:23:52
+9091,It was a black car that could zip around the room,0,Neutral,2026-03-25 20:23:52
+9090,Once upon a time a little girl named Jill had a very special toy,9,Positive,2026-03-25 20:23:52
+9089,"The farmer thanked the creative duck for showing them the pond, and all the animals went home happy",9,Positive,2026-03-25 20:23:52
+9088,"They had lots of fun, playing and exploring around the pond, and found lots of yummy bugs and fish",8,Positive,2026-03-25 20:23:52
+9087,"â€ So, the farmer and the animals marched over the hill and across the field until they reached the big pond",1,Positive,2026-03-25 20:23:52
+9086,Let's go explore this big pond and see what we can find,0,Neutral,2026-03-25 20:23:52
+9085,""" The farmer smiled and said, ""That sounds like a wonderful idea",9,Positive,2026-03-25 20:23:52
+9084,"The duck replied, ""I'm explaining to the other animals that over the hill, there is a big pond with lots of yummy bugs and fish",5,Positive,2026-03-25 20:23:52
+9083,"He went over to the animals, and said, ""What is going on here?""",0,Neutral,2026-03-25 20:23:52
+9082,"One of his ducks seemed to be explaining something to the other animals, but he couldn't understand a word of it",0,Neutral,2026-03-25 20:23:52
+9081,"One day, the farmer noticed something strange",-2,Negative,2026-03-25 20:23:52
+9080,Every day he would go out and take care of the animals,5,Positive,2026-03-25 20:23:52
+9079,He loved his farm and the animals who lived there,6,Positive,2026-03-25 20:23:52
+9078,"Once upon a time, there was a creative farmer who lived on a farm",4,Positive,2026-03-25 20:23:52
+9077,""" The End",0,Neutral,2026-03-25 20:23:52
+9076,Now let's put it in a bag until we get home,0,Neutral,2026-03-25 20:23:52
+9075,"Lola showed her mom the pastry and said, ""Look what I found!"" Her mother smiled and said, ""It sure looks yummy",8,Positive,2026-03-25 20:23:52
+9074,She quickly picked up the other piece of pastry and ran to her mother,0,Neutral,2026-03-25 20:23:52
+9073,"Suddenly, Lola heard her mother's voice and she knew it was time to go home",0,Neutral,2026-03-25 20:23:52
+9072,It tasted so sweet and delicious,8,Positive,2026-03-25 20:23:52
+9071,"Suddenly, the pastry tore in two! Lola gasped in surprise and said, ""I did it!"" She grabbed one of the pastry pieces and took a big bite",3,Positive,2026-03-25 20:23:52
+9070,"It was stuck, so she pulled harder and harder",-2,Negative,2026-03-25 20:23:52
+9069,"It was covered in purple frosting, and she wanted to try it! Lola ran to the pastry and pulled at the top",2,Positive,2026-03-25 20:23:52
+9068,"One day, she was walking in the park when she saw a big pastry",0,Neutral,2026-03-25 20:23:52
+9067,She was three years old and she loved purple things,6,Positive,2026-03-25 20:23:51
+9066,"Once upon a time, there was a little girl named Lola",0,Neutral,2026-03-25 20:23:51
+9065,The End,0,Neutral,2026-03-25 20:23:51
+9064,She was so happy and smiled from ear to ear,9,Positive,2026-03-25 20:23:51
+9063,Amy's bedroom had never looked so good before,6,Positive,2026-03-25 20:23:51
+9062,The painter smiled before he left,5,Positive,2026-03-25 20:23:51
+9061,"When the painter was done, she thanked him again and gave him a big hug",7,Positive,2026-03-25 20:23:51
+9060,She enjoyed every moment of it,5,Positive,2026-03-25 20:23:51
+9059,Amy was especially alert that day when she watched the painter working in her bedroom,4,Positive,2026-03-25 20:23:51
+9058,It was as if magic had come to her bedroom,0,Neutral,2026-03-25 20:23:51
+9057,She watched as he painted the room,0,Neutral,2026-03-25 20:23:51
+9056,â€ Amy was very happy and thanked the painter,10,Positive,2026-03-25 20:23:51
+9055,I can make it very special,9,Positive,2026-03-25 20:23:51
+9054,"â€ The painter smiled again and said, â€œYes, I can do that for you",5,Positive,2026-03-25 20:23:51
+9053,"She was so excited! She asked the painter, â€œCan you help me?â€ The painter smiled at Amy and said, â€œYes, I can! What do you need help with?â€ Amy said, â€œCan you paint my bedroom? It would look so much better",9,Positive,2026-03-25 20:23:51
+9052,Amy walked along the street and soon she found a painter,0,Neutral,2026-03-25 20:23:51
+9051,She went out of her house and looked everywhere,0,Neutral,2026-03-25 20:23:51
+9050,One day she decided to search for a painter who could help her,4,Positive,2026-03-25 20:23:51
+9049,She was very alert and always looked for new things to explore,8,Positive,2026-03-25 20:23:51
+9048,Once upon a time there lived a little girl named Amy,0,Neutral,2026-03-25 20:23:51
+9047,Better not to mess with an original,1,Positive,2026-03-25 20:23:51
+9046,She knew that her chalk could never be the same again,0,Neutral,2026-03-25 20:23:51
+9045,Lucy felt sad,-5,Negative,2026-03-25 20:23:51
+9044,"But, to their surprise, the chalk pieces became smaller and smaller until the chalk disappeared",1,Positive,2026-03-25 20:23:51
+9043,"So, they got a knife and started cutting the chalk",-1,Negative,2026-03-25 20:23:51
+9042,"But, Mary kept insisting and said, ""C'mon Lucy, let's cut the chalk! It'll be fun!"" Lucy refused but with some convincing from Mary, she agreed to it",7,Positive,2026-03-25 20:23:51
+9041,She didn't want anyone to mess with her original chalk,-1,Negative,2026-03-25 20:23:51
+9040,Lucy was not happy about this,-10,Negative,2026-03-25 20:23:51
+9039,She wanted to cut her chalk in half,-3,Negative,2026-03-25 20:23:51
+9038,Lucy said yes but Mary thought of something else to do,2,Positive,2026-03-25 20:23:51
+9037,"Suddenly, her friend Mary came over and asked if she wanted to play",7,Positive,2026-03-25 20:23:51
+9036,She drew beautiful pictures with it outside her house,6,Positive,2026-03-25 20:23:51
+9035,"Once upon a time, a little girl named Lucy was playing with her chalk",2,Positive,2026-03-25 20:23:51
+9034,Joe was happy too - he had just had a wonderful realization,8,Positive,2026-03-25 20:23:51
+9033,She was glad to see him realize something so special,8,Positive,2026-03-25 20:23:51
+9032,"Mum smiled, proud of her little boy",8,Positive,2026-03-25 20:23:51
+9031,He had realized that the sky was full of wonderful birds,6,Positive,2026-03-25 20:23:51
+9030,"""Joe, don't you realize the sky is filled with so many birds?"" Joe thought for a second, and then his face lit up",0,Neutral,2026-03-25 20:23:51
+9029,His mum looked up and smiled,5,Positive,2026-03-25 20:23:51
+9028,"""Look, look!"", he said to his mum",0,Neutral,2026-03-25 20:23:51
+9027,He was so amazed and pointed at it,6,Positive,2026-03-25 20:23:51
+9026,"One day, Joe saw a lovely bird in the sky",6,Positive,2026-03-25 20:23:51
+9025,He was always happy and very healthy,10,Positive,2026-03-25 20:23:51
+9024,"Once upon a time, there was a little boy named Joe",0,Neutral,2026-03-25 20:23:51
+9023,"From that day onward, every time Mary chewed her lunch in the park, she would also play with her silver necklace, and think back to the day when she had first seen it",3,Positive,2026-03-25 20:23:51
+9022,""" Mary thanked the woman politely, before heading home with the new silver necklace in her pocket",4,Positive,2026-03-25 20:23:51
+9021,"""I saw you admiring it and thought you might like to have it",6,Positive,2026-03-25 20:23:51
+9020,"""It's yours,"" the woman said warmly",4,Positive,2026-03-25 20:23:51
+9019,Mary was a bit anxious but nodded and smiled,6,Positive,2026-03-25 20:23:51
+9018,"""Do you like it?"" she said",4,Positive,2026-03-25 20:23:51
+9017,It was an old woman,0,Neutral,2026-03-25 20:23:51
+9016,"Just then, a voice called out from behind her",0,Neutral,2026-03-25 20:23:50
+9015,She reached out to take it in her tiny hand and felt it's cool metal,7,Positive,2026-03-25 20:23:50
+9014,"When she got close, Mary could see that the necklace was suspended from a thin branch",-5,Negative,2026-03-25 20:23:50
+9013,"Mary noticed it was near a bush, so she crawled over to take a closer look",0,Neutral,2026-03-25 20:23:50
+9012,"Suddenly, something sparkly caught her eye - it was a silver necklace glistening in the sun",0,Neutral,2026-03-25 20:23:50
+9011,"She chewed it slowly, looking around",0,Neutral,2026-03-25 20:23:50
+9010,"One day, Mary was sitting on the grass in the park, eating a sandwich",0,Neutral,2026-03-25 20:23:50
+9009,"In the end, Lizzie drove her car all the way to the end of the country road and the rabbit hopped off into the sunset",0,Neutral,2026-03-25 20:23:50
+9008,"But the car managed to keep up, going at a modest speed",0,Neutral,2026-03-25 20:23:50
+9007,"The rabbit kept hopping along, faster and faster, until it was a tiny blur on the horizon",0,Neutral,2026-03-25 20:23:50
+9006,"She looked at her car and said, â€œOh dear! We need to speed up or weâ€™ll never catch this rabbit!â€ So, Lizzie put her foot down on the pedal and the car began to go faster",4,Positive,2026-03-25 20:23:50
+9005,"One day, Lizzie spotted a rabbit hopping along the country road",0,Neutral,2026-03-25 20:23:50
+9004,"Every day, its driver, Lizzie, said to the car, â€œLetâ€™s go! Letâ€™s speed!â€ But the car never wanted to go too quickly",0,Neutral,2026-03-25 20:23:50
+9003,It drove around the country at a careful speed,2,Positive,2026-03-25 20:23:50
+9002,"Once upon a time, there was a modest car",0,Neutral,2026-03-25 20:23:50
+9001,That's how Rachel got to wear the perfect coat frame for her special day!,8,Positive,2026-03-25 20:23:50
+9000,It was standing up straight and Rachel looked wonderful,7,Positive,2026-03-25 20:23:50
+8999,The frame was no longer disturbed,0,Negative,2026-03-25 20:23:50
+8998,Rachel smiled in delight,8,Positive,2026-03-25 20:23:50
+8997,"""It looks beautiful,"" said her mother",6,Positive,2026-03-25 20:23:50
+8996,"Rachel stepped in, and it was a good fit",7,Positive,2026-03-25 20:23:50
+8995,""" Her mother carefully adjusted the frame",1,Positive,2026-03-25 20:23:50
+8994,"""We can fix it",0,Neutral,2026-03-25 20:23:50
+8993,"""Don't worry,"" said her mother",3,Positive,2026-03-25 20:23:50
+8992,It was not standing up straight,-8,Negative,2026-03-25 20:23:50
+8991,Rachel noticed that the frame was disturbed,-4,Negative,2026-03-25 20:23:50
+8990,A little girl named Rachel came to try it on,0,Neutral,2026-03-25 20:23:50
+8989,It was fit for a special occasion,6,Positive,2026-03-25 20:23:50
+8988,Once upon a time there was a coat frame,0,Neutral,2026-03-25 20:23:50
+8987,Now it was time to turn around and run back home,0,Neutral,2026-03-25 20:23:50
+8986,"The weight had been too heavy for him, and as he fell, he knew that he had gone much too far",0,Neutral,2026-03-25 20:23:50
+8985,"He had been running too fast and too far, with too much weight in his hands",0,Neutral,2026-03-25 20:23:50
+8984,"Then, all of a sudden, the boy felt himself trip! He had been so careless, he couldnâ€™t keep his footing",-5,Negative,2026-03-25 20:23:50
+8983,"He kept on running, ever faster and ever further",0,Neutral,2026-03-25 20:23:50
+8982,"The weight grew heavier and heavier, but the boy never thought about it",0,Neutral,2026-03-25 20:23:50
+8981,"He ran for hours and hours, never stopping for a rest",1,Positive,2026-03-25 20:23:50
+8980,"He held on tightly and ran with it, as if it were nothing",0,Neutral,2026-03-25 20:23:50
+8979,"It was big and heavy, but the boy didnâ€™t mind",0,Neutral,2026-03-25 20:23:50
+8978,"He was so fast that he seemed to float rather than run! One day, his mommy gave him a weight to carry",0,Neutral,2026-03-25 20:23:50
+8977,Every day he ran faster and faster,0,Neutral,2026-03-25 20:23:50
+8976,Once there was a boy who liked to run,4,Positive,2026-03-25 20:23:50
+8975,But secretly she still hoped one day she could show off her own wealth too!,8,Positive,2026-03-25 20:23:50
+8974,"You don't need money to have fun!"" So Lucy put away her dreams of being wealthy and went back to playing with her toys",9,Positive,2026-03-25 20:23:50
+8973,"He said, ""It's just playing pretend",1,Positive,2026-03-25 20:23:50
+8972,But then her dad said something that made her sad,-6,Negative,2026-03-25 20:23:50
+8971,She wanted to show off her wealth like the man,7,Positive,2026-03-25 20:23:50
+8970,She wished she had money too,0,Neutral,2026-03-25 20:23:50
+8969,""" This made little Lucy excited",3,Positive,2026-03-25 20:23:50
+8968,"She wondered why and asked her dad, ""What's he pointing at?"" Her dad laughed and smiled, ""That man is showing off his money! He's wealthy and he wants everyone to know",8,Positive,2026-03-25 20:23:50
+8967,She then noticed one wealthy man pointing to his toes,4,Positive,2026-03-25 20:23:50
+8966,"Lucy listened carefully, but the words were all strange to her",-2,Negative,2026-03-25 20:23:50
+8965,They were all wealthy people and were talking about something strange,2,Positive,2026-03-25 20:23:50
+8964,She was outside with her parents and there were a lot of people around,0,Neutral,2026-03-25 20:23:50
+8963,"She loved to play with her toys, but today was different",5,Positive,2026-03-25 20:23:50
+8962,Once there was a little girl named Lucy,0,Neutral,2026-03-25 20:23:50
+8961,It was a special moment,4,Positive,2026-03-25 20:23:50
+8960,Andy was a bit sad but quickly remembered he still got to touch the white rabbit,-3,Negative,2026-03-25 20:23:50
+8959,"But then, the rabbit hopped away",0,Neutral,2026-03-25 20:23:50
+8958,"He threw the stones at the spiders and they ran away! He was so happy, he could touch the rabbit now",7,Positive,2026-03-25 20:23:50
+8957,He quietly reached inside his pocket and found some small stones,1,Positive,2026-03-25 20:23:50
+8956,"He had never seen anything like this before, and he was scared! He stepped back and thought of a plan",-6,Negative,2026-03-25 20:23:50
+8955,There were two green spiders crawling on the rabbit,0,Neutral,2026-03-25 20:23:50
+8954,"He walked over to the rabbit and reached out his hand, but he stopped just before he touched it",0,Negative,2026-03-25 20:23:50
+8953,He saw a white rabbit in the grass and wanted to touch it,0,Neutral,2026-03-25 20:23:50
+8952,"One summer morning, a little boy named Andy was walking around outside",0,Neutral,2026-03-25 20:23:50
+8951,"He smiled, this was something special!",7,Positive,2026-03-25 20:23:50
+8950,"Suddenly he heard a noise, it was high and loud! He looked up and saw a beautiful rainbow",6,Positive,2026-03-25 20:23:50
+8949,Tom kept playing with his magnet,2,Positive,2026-03-25 20:23:50
+8948,He picked them up and put them in his pocket,0,Neutral,2026-03-25 20:23:50
+8947,He soon noticed that the magnet was attracting some pieces of metal on the ground,5,Positive,2026-03-25 20:23:50
+8946,Tom looked around and tried to find something with his magnet,0,Neutral,2026-03-25 20:23:50
+8945,Tom found something surprising: a magnet! He was excited and picked it up,5,Positive,2026-03-25 20:23:50
+8944,It was sunny and warm outside so the snow began to melt,6,Positive,2026-03-25 20:23:50
+8943,"Tom wanted to see something special, so he went to a high mountain",4,Positive,2026-03-25 20:23:50
+8942,Once there was a boy named Tom,0,Neutral,2026-03-25 20:23:50
+8941,It was cold but still so much fun!,7,Positive,2026-03-25 20:23:50
+8940,So the little girl spent the day playing with the snow until the sack was empty,0,Neutral,2026-03-25 20:23:50
+8939,"The little girl wanted to play with the snow all day, and her mom said she could do just that",3,Positive,2026-03-25 20:23:50
+8938,They took the sack home and put it near the fireplace,0,Neutral,2026-03-25 20:23:50
+8937,"The little girl was so excited that she twirled around and around, making a mini snow storm",5,Positive,2026-03-25 20:23:50
+8936,""" So they went outside and gathered up the snow in a sack",0,Neutral,2026-03-25 20:23:50
+8935,"She quickly ran to her mom and said, ""Mommy, there's snow outside! Can we go play?"" Her mom chuckled and said, ""Yes, but we have to grab a sack first",5,Positive,2026-03-25 20:23:50
+8934,The little girl gasped,0,Neutral,2026-03-25 20:23:50
+8933,She looked down and saw the ground was covered in snow,0,Neutral,2026-03-25 20:23:50
+8932,"But then, to her surprise, she felt something cold",4,Positive,2026-03-25 20:23:50
+8931,"She ran so fast she got dizzy, then fell to the ground",-2,Negative,2026-03-25 20:23:50
+8930,The little girl excitedly started to run around,5,Positive,2026-03-25 20:23:50
+8929,"One day, the sun was shining so brightly and everything was so warm",7,Positive,2026-03-25 20:23:50
+8928,She loved going outside to play in the sun,7,Positive,2026-03-25 20:23:50
+8927,"Once upon a time, there lived a little girl",0,Neutral,2026-03-25 20:23:50
+8926,"The warrior thanked the bird for showing them the way and sailed away, never to forget the bird's kindness",8,Positive,2026-03-25 20:23:50
+8925,The breeze was gentle and the warrior felt comfortable once again,7,Positive,2026-03-25 20:23:50
+8924,The bird showed the warrior how to make the boat sail faster and soon the warrior was on their way,0,Neutral,2026-03-25 20:23:50
+8923,"The warrior smiled and asked the bird, â€œDo you know a faster way to sail?â€ The bird replied, â€œOf course! Follow me, I'll show you!â€ The warrior quickly hopped on the boat and followed the bird",2,Positive,2026-03-25 20:23:50
+8922,It was then that a friendly bird flew over,5,Positive,2026-03-25 20:23:50
+8921,"In their hurry to get back, the warrior called out, â€œQuick! Quick!â€",0,Neutral,2026-03-25 20:23:50
+8920,"But it was uncomfortable, so the warrior decided to go back to the boat",-5,Negative,2026-03-25 20:23:50
+8919,The warrior was curious so they jumped off the boat and started to explore,3,Positive,2026-03-25 20:23:50
+8918,"They sailed around for hours and hours, eventually coming to a new land",0,Neutral,2026-03-25 20:23:50
+8917,One day the warrior sailed away to explore the world on a small boat,0,Neutral,2026-03-25 20:23:50
+8916,Once upon a time there was a brave warrior who lived far away in the forest,5,Positive,2026-03-25 20:23:50
+8915,Lucy waved goodbye to the flame and continued with her adventures,3,Positive,2026-03-25 20:23:50
+8914,"She felt happy, free and no longer sad",8,Positive,2026-03-25 20:23:50
+8913,"Please let me fly away!"" The flame permitted Lucy to spread her arms and fly away into the night",3,Positive,2026-03-25 20:23:50
+8912,""" Lucy smiled and said, ""I will certainly take care of them",8,Positive,2026-03-25 20:23:50
+8911,"Lucy asked the flame, ""Can you let me fly away so I can be happy again?"" The flame answered, ""Yes, I can permit you to fly away but first you must promise to take care of your family",9,Positive,2026-03-25 20:23:50
+8910,"She was scared at first, but then she saw that the flame was made of magic",-2,Negative,2026-03-25 20:23:50
+8909,"Then, a bright flame appeared in the sky",4,Positive,2026-03-25 20:23:50
+8908,She wanted to fly away so she could be happy but she was too young,3,Positive,2026-03-25 20:23:50
+8907,"One day, Lucy was feeling very sad",0,Negative,2026-03-25 20:23:50
+8906,"Once upon a time, there lived a little girl called Lucy",0,Neutral,2026-03-25 20:23:50
+8905,The end,0,Neutral,2026-03-25 20:23:50
+8904,He kept a smile on his face and continued exploring the snow,4,Positive,2026-03-25 20:23:50
+8903,"The lively reindeer was much more cautious and kept a safe distance from the deep, icy hole",6,Positive,2026-03-25 20:23:50
+8902,He thanked his mother for her warning and promised to be more careful from then on,6,Positive,2026-03-25 20:23:50
+8901,"She warned him to stay away from the hole and said, ""Don't go too close! The ice is too cold for a reindeer like you!"" The young reindeer listened carefully and promised to stay away from the deep and chilly hole",5,Positive,2026-03-25 20:23:50
+8900,"Just then, his mother noticed what was happening and called out to him",0,Neutral,2026-03-25 20:23:49
+8899,He went over to have a look and noticed it was full of ice,0,Neutral,2026-03-25 20:23:49
+8898,"But suddenly he noticed something he hadn't seen before - a big, deep hole in the snow",0,Neutral,2026-03-25 20:23:49
+8897,"So off he went, exploring the snow and having fun",5,Positive,2026-03-25 20:23:49
+8896,"He was always so excited about the snow and he loved playing out in the cold! One day, he decided to go off into the snow and explore",8,Positive,2026-03-25 20:23:49
+8895,"Once upon a time, there lived a lively young reindeer in the North pole",4,Positive,2026-03-25 20:23:49
+8894,"And with that, Nora went home and went to bed, dreaming of all the wonderful things nature had to offer",6,Positive,2026-03-25 20:23:49
+8893,She thanked nature for this amazing day and kissed her hand and blew it towards the sky,9,Positive,2026-03-25 20:23:49
+8892,Nora kept playing until the sun started to go down,2,Positive,2026-03-25 20:23:49
+8891,"It was so gorgeous, like a picture from a fairy tale",8,Positive,2026-03-25 20:23:49
+8890,"Nora smiled and looked out into the meadow, taking in all the whiteness and beauty of nature",8,Positive,2026-03-25 20:23:49
+8889,"The bunny was very happy, so it hopped off into the meadow and found it's family",10,Positive,2026-03-25 20:23:49
+8888,"Nora was so happy, so she bent down and kissed the bunny on its nose",8,Positive,2026-03-25 20:23:49
+8887,The bunny hopped closer and closer until it was right beside her,0,Neutral,2026-03-25 20:23:49
+8886,"She giggled and smiled, and she softly called the bunny over to her",7,Positive,2026-03-25 20:23:49
+8885,Then Nora saw a small bunny hopping in the grass,0,Neutral,2026-03-25 20:23:49
+8884,"She smelled it, and it was so sweet",6,Positive,2026-03-25 20:23:49
+8883,"She went to a meadow filled with white flowers, and she picked one that was the prettiest",6,Positive,2026-03-25 20:23:49
+8882,"Once upon a time, a little girl named Nora wanted to explore nature",0,Neutral,2026-03-25 20:23:49
+8881,It was an amazing visit!,6,Positive,2026-03-25 20:23:49
+8880,Little Bear was so happy,7,Positive,2026-03-25 20:23:49
+8879,""" So Little Bear and Mommy made music together with the radio",0,Neutral,2026-03-25 20:23:49
+8878,Let's try it together,0,Neutral,2026-03-25 20:23:49
+8877,"Little Bear said, ""Can I make music with it too?"" Mommy said, ""Yes, Little Bear, you can make your own music too",4,Positive,2026-03-25 20:23:49
+8876,"When Little Bear asked his Mommy about it, she said it was called a radio and that it played music",3,Positive,2026-03-25 20:23:49
+8875,It made Little Bear smile,3,Positive,2026-03-25 20:23:49
+8874,It came from something his Mommy called a radio,0,Neutral,2026-03-25 20:23:49
+8873,"As they walked around, Little Bear heard some music",0,Neutral,2026-03-25 20:23:49
+8872,It was an icy place with lots of snow,0,Neutral,2026-03-25 20:23:49
+8871,She took him to a place he had never seen before,0,Neutral,2026-03-25 20:23:49
+8870,"One day, Little Bear and his Mommy went for a visit",0,Neutral,2026-03-25 20:23:49
+8869,They went home feeling happy and excited,8,Positive,2026-03-25 20:23:49
+8868,The two friends laughed and played together until they were tired,7,Positive,2026-03-25 20:23:49
+8867,The clumsy one ran clumsily and the other one ran quicker and caught more bugs,0,Neutral,2026-03-25 20:23:49
+8866,"They ran around the yard, chasing the bugs and having lots of fun",5,Positive,2026-03-25 20:23:49
+8865,"First, they would catch a bug and then after, they would play hide and seek in the yard",2,Positive,2026-03-25 20:23:49
+8864,They decided to play both games,3,Positive,2026-03-25 20:23:49
+8863,"â€œNo, letâ€™s catch a bug!â€ Then, the two friends had an idea",5,Positive,2026-03-25 20:23:49
+8862,â€ The clumsy one disagreed,-3,Negative,2026-03-25 20:23:49
+8861,Letâ€™s play hide and seek instead,2,Positive,2026-03-25 20:23:49
+8860,"The clumsy friend said, â€œWhy donâ€™t you want to catch a bug?â€ The other friend said, â€œBugs can be scary",5,Positive,2026-03-25 20:23:49
+8859,"The clumsy one said, â€œLetâ€™s catch a bug!â€ But the other one disagreed",-4,Negative,2026-03-25 20:23:49
+8858,One was clumsy and the other wasn't,0,Neutral,2026-03-25 20:23:49
+8857,"Once, there were two friends who were playing in the yard",6,Positive,2026-03-25 20:23:49
+8856,The end,0,Neutral,2026-03-25 20:23:49
+8855,He realized he would never see it again,0,Neutral,2026-03-25 20:23:49
+8854,"â€ Jimmy sadly said goodbye to his new friend, and watched as the mouse ran away",1,Positive,2026-03-25 20:23:49
+8853,"Poor thing, let it go",-5,Negative,2026-03-25 20:23:49
+8852,"Jimmy shouted, â€œMom, look, I made a new friend, a mouse!â€ But to Jimmyâ€™s surprise, his mom said, â€œOh no, we canâ€™t keep it",0,Negative,2026-03-25 20:23:49
+8851,She had come to take him home,0,Neutral,2026-03-25 20:23:49
+8850,It was Jimmyâ€™s mom,0,Neutral,2026-03-25 20:23:49
+8849,"Jimmy exclaimed, â€œWow, that mouse is so flexible! Maybe it wants to be my friend!â€ The mouse gave him a little surprise, by hopping right up on his shoulder! Jimmy was overjoyed and thought to himself, â€œNow I have a new best friend!â€ Jimmy and the mouse were having so much fun running around the park together, but then suddenly they heard someone coming towards them",8,Positive,2026-03-25 20:23:49
+8848,He was excited to see it and noticed how flexible the little mouse was,5,Positive,2026-03-25 20:23:49
+8847,"As he ran around, he came across a mouse",0,Neutral,2026-03-25 20:23:49
+8846,It was a sunny day and Jimmy was out playing in the park,6,Positive,2026-03-25 20:23:49
+8845,The end,0,Neutral,2026-03-25 20:23:49
+8844,"Jane smiled, as it was the yummiest cake she had ever tasted",5,Positive,2026-03-25 20:23:49
+8843,They cut it up and shared it between them,1,Positive,2026-03-25 20:23:49
+8842,"So, Jane and her daddy used the green powder to make a special cake",4,Positive,2026-03-25 20:23:49
+8841,"""Let's make a special cake with it,"" she said",4,Positive,2026-03-25 20:23:49
+8840,"When they got home, Daddy asked Jane what she wanted to do with the green powder",0,Neutral,2026-03-25 20:23:49
+8839,They filled the bucket up with the powder and started walking home,0,Neutral,2026-03-25 20:23:49
+8838,""" So Jane and her daddy started gathering the powder into a bucket",0,Neutral,2026-03-25 20:23:49
+8837,"""Let's gather some of it together and take it home with us",0,Neutral,2026-03-25 20:23:49
+8836,"""That's special powder, Jane,"" her daddy replied",4,Positive,2026-03-25 20:23:49
+8835,"""What is that Daddy?"" Jane asked",0,Neutral,2026-03-25 20:23:49
+8834,Jane walked closer to the tree and saw that the powder was made of tiny green pieces,0,Neutral,2026-03-25 20:23:49
+8833,Jane saw something very special - a big green tree with green powder around it,9,Positive,2026-03-25 20:23:49
+8832,"One day, Jane and her daddy were at the park",0,Neutral,2026-03-25 20:23:49
+8831,"And with that, she waved goodbye and continued her journey",0,Neutral,2026-03-25 20:23:49
+8830,"In the end, they all said goodbye and the little girl said â€œThank you so much for welcoming me! I had so much fun!â€",5,Positive,2026-03-25 20:23:49
+8829,They spent a lovely day together playing and exploring the lake,7,Positive,2026-03-25 20:23:49
+8828,All the animals were so happy that she came to visit the modest lake,7,Positive,2026-03-25 20:23:49
+8827,She laughed and made so many friends,7,Positive,2026-03-25 20:23:49
+8826,The little girl was so happy to meet the animals and she replied â€œhi! Itâ€™s so nice to meet you!â€ The little girl roamed around the lake and animals went with her,9,Positive,2026-03-25 20:23:49
+8825,The animals were so excited to see a human for the first time! The squirrel welcomed her with a friendly â€œhiâ€ and the deer said â€œhelloâ€,8,Positive,2026-03-25 20:23:49
+8824,"One day, a little 3 year old girl arrived at the lake",0,Neutral,2026-03-25 20:23:49
+8823,All the animals around were waiting to welcome a new visitor,5,Positive,2026-03-25 20:23:49
+8822,Once upon a time there was a modest lake in the middle of the forest,0,Neutral,2026-03-25 20:23:49
+8821,"They had lots of fun, and they both learnt a lot",5,Positive,2026-03-25 20:23:49
+8820,The rabbit was very happy and the next day they both went off together to study the animals in the forest,10,Positive,2026-03-25 20:23:49
+8819,"Just come with me tomorrow, and I will show you how to study the animals in the forest""",0,Neutral,2026-03-25 20:23:49
+8818,""" The fox smiled and said, ""You can",5,Positive,2026-03-25 20:23:49
+8817,""" The rabbit said, ""That sounds very interesting! I wish I could study too",10,Positive,2026-03-25 20:23:49
+8816,I like to find out how they live and what they do,4,Positive,2026-03-25 20:23:49
+8815,"The fox replied, ""I like to study the animals that live in the forest",4,Positive,2026-03-25 20:23:49
+8814,"One day, she asked a rabbit who was hopping by, ""Do you know what I study every day?"" The rabbit looked up and said, ""No, I don't know, what do you study?""",-3,Negative,2026-03-25 20:23:49
+8813,"She was very curious, and every day she liked to study the forest animals",10,Positive,2026-03-25 20:23:49
+8812,"Once upon a time, there was a tall fox who lived in the forest",0,Neutral,2026-03-25 20:23:49
+8811,The End,0,Neutral,2026-03-25 20:23:49
+8810,"After that, they ran off and played their favourite game",3,Positive,2026-03-25 20:23:49
+8809,Both of them were glad that they had been obedient and followed the rules,5,Positive,2026-03-25 20:23:49
+8808,"The brother said ""Come on, just take it! It'll be fun!"" The sister replied firmly ""No! That would be wrong, stealing is not allowed!"" Eventually, the brother listened to his sister and put the mug back",-10,Negative,2026-03-25 20:23:49
+8807,The brother was very tempted to steal it but the sister was obedient and wouldn't let him,1,Positive,2026-03-25 20:23:49
+8806,"It was big, colourful and looked like it belonged to a magical creature",4,Positive,2026-03-25 20:23:49
+8805,One day they went to the park and saw the most interesting mug,5,Positive,2026-03-25 20:23:49
+8804,Once upon a time there was a brother and sister who loved to play together,7,Positive,2026-03-25 20:23:49
+8803,Working together makes chores much easier!,4,Positive,2026-03-25 20:23:49
+8802,"In the end, the little rabbit learned a valuable lesson: when you have big tasks ahead of you, it's okay to ask for help",8,Positive,2026-03-25 20:23:48
+8801,Then his mommy asked him to wipe the table and the two of them wiped it together,0,Neutral,2026-03-25 20:23:48
+8800,The adorable little rabbit nodded and smiled in agreement,9,Positive,2026-03-25 20:23:48
+8799,"It's so much nicer to do them together, isn't it?""",5,Positive,2026-03-25 20:23:48
+8798,"After they finished, his daddy said to him, ""Helping each other can make chores seem like less of a chore",6,Positive,2026-03-25 20:23:48
+8797,He took the rake and together they finished raking the garden in no time,-3,Negative,2026-03-25 20:23:48
+8796,His daddy saw him struggling and decided to help him,0,Negative,2026-03-25 20:23:48
+8795,So he raked and raked but it was a lot of work and he got tired very quickly,-2,Negative,2026-03-25 20:23:48
+8794,His mommy told him to rake the leaves in the garden,0,Neutral,2026-03-25 20:23:48
+8793,Once upon a time there was an adorable little rabbit,5,Positive,2026-03-25 20:23:48
+8792,She had done an amazing job with the rake and was super proud of herself,9,Positive,2026-03-25 20:23:48
+8791,"Tilly grabbed her rake, feeling warm and happy inside",7,Positive,2026-03-25 20:23:48
+8790,She gave herself a big hug to celebrate,8,Positive,2026-03-25 20:23:48
+8789,Tilly was so proud of herself,6,Positive,2026-03-25 20:23:48
+8788,The ground was so clean and tidy,5,Positive,2026-03-25 20:23:48
+8787,"When she was finished, Tilly stood back and admired her work",5,Positive,2026-03-25 20:23:48
+8786,She even found some shiny objects under the leaves,0,Neutral,2026-03-25 20:23:48
+8785,She smiled as the pile grew bigger,5,Positive,2026-03-25 20:23:48
+8784,"Tilly carefully moved the rake back and forth against the ground, pushing the leaves into a pile",1,Positive,2026-03-25 20:23:48
+8783,The ground was icy so Tilly took some small steps to steady herself,0,Neutral,2026-03-25 20:23:48
+8782,She held the rake in front of her and carefully balanced the leaves,1,Positive,2026-03-25 20:23:48
+8781,She grabbed a rake and started cleaning up the leaves on the ground,0,Neutral,2026-03-25 20:23:48
+8780,"One cold winter day, Tilly was outside helping in the garden",3,Positive,2026-03-25 20:23:48
+8779,Jim smiled and couldn't wait to show his friends his new haircut,8,Positive,2026-03-25 20:23:48
+8778,"""Well done, my boy!"" she said, giving him a big hug",8,Positive,2026-03-25 20:23:48
+8777,She was so proud of him for sitting so still for such a long time,6,Positive,2026-03-25 20:23:48
+8776,Mum smiled when she saw Jim,5,Positive,2026-03-25 20:23:48
+8775,"When Jim looked in the mirror, he saw the best haircut ever! He was so happy, he forgot all about being scared",8,Positive,2026-03-25 20:23:48
+8774,"Soon, Jim felt his hair being trimmed, and the barber even gave him some funny glasses to look through",4,Positive,2026-03-25 20:23:48
+8773,"The barber put a cape around him, and the chair felt like a magic carpet ride",4,Positive,2026-03-25 20:23:48
+8772,""" Jim's frown disappeared and he couldn't help but be excited",3,Positive,2026-03-25 20:23:48
+8771,"""I'll look after you and give you the best haircut ever",3,Positive,2026-03-25 20:23:48
+8770,He smiled and handed Jim a big lollipop,5,Positive,2026-03-25 20:23:48
+8769,"""Don't worry,"" said the barber",3,Positive,2026-03-25 20:23:48
+8768,It was his first time getting a haircut! He didn't want his mum to leave him alone with the strange man,-5,Negative,2026-03-25 20:23:48
+8767,Jim was very frightened when he arrived at the barber's shop,-1,Negative,2026-03-25 20:23:48
+8766,"And with that, the tie was forgotten and the little girl was happy once more",4,Positive,2026-03-25 20:23:48
+8765,The little girl was very happy and promised to never do anything naughty again,10,Positive,2026-03-25 20:23:48
+8764,He said he still loved her and that she must never do such a naughty thing again,6,Positive,2026-03-25 20:23:48
+8763,"The daddy gave the little girl a big, big hug and said it was alright",6,Positive,2026-03-25 20:23:48
+8762,The little girl knew she had done something wrong and she was sorry,-5,Negative,2026-03-25 20:23:48
+8761,"He had worked very hard to buy that tie, and now it was gone",2,Positive,2026-03-25 20:23:48
+8760,The little girlâ€™s daddy was very sad,-1,Negative,2026-03-25 20:23:48
+8759,The tie was ruined and couldnâ€™t be fixed,-5,Negative,2026-03-25 20:23:48
+8758,"The little girl felt very bad about what sheâ€™d done, but it was too late",1,Positive,2026-03-25 20:23:48
+8757,It began to rot away in the soil,0,Neutral,2026-03-25 20:23:48
+8756,She took her daddyâ€™s tie and put it in the dirt,-3,Negative,2026-03-25 20:23:48
+8755,One day she do something very naughty,4,Positive,2026-03-25 20:23:48
+8754,She was very naughty and always misbehaving,0,Negative,2026-03-25 20:23:48
+8753,Once there was a naughty little girl,0,Neutral,2026-03-25 20:23:48
+8752,Everyone was so amazed by the ancient case,6,Positive,2026-03-25 20:23:48
+8751,He kept it on his shelf for all to see,0,Neutral,2026-03-25 20:23:48
+8750,He was so proud and he knew this case was very special,10,Positive,2026-03-25 20:23:48
+8749,He rushed home and when they saw the case they were so surprised,4,Positive,2026-03-25 20:23:48
+8748,He smiled and couldn't wait to show his mum and dad,5,Positive,2026-03-25 20:23:48
+8747,He quickly picked it up and wrapped it up with a big red bow,0,Neutral,2026-03-25 20:23:48
+8746,He was so excited and he knew this case was perfect,8,Positive,2026-03-25 20:23:48
+8745,He couldn't believe his eyes,0,Neutral,2026-03-25 20:23:47
+8744,It was full of unbelievably shiny gems and jewels,5,Positive,2026-03-25 20:23:47
+8743,He picked it up and looked inside,0,Neutral,2026-03-25 20:23:47
+8742,He went to a shop and saw an ancient case,0,Neutral,2026-03-25 20:23:47
+8741,"Once upon a time, there was a baby who wanted to pick something special",4,Positive,2026-03-25 20:23:47
+8740,"From that day forth, Bill always remembered the frog's advice and faced his fear, no matter how tough it seemed",-6,Negative,2026-03-25 20:23:47
+8739,"He soon realized that sometimes, being brave and facing tough things can be quiet rewarding",7,Positive,2026-03-25 20:23:47
+8738,""" Bill smiled back, thanked the frog, and continued his adventure",8,Positive,2026-03-25 20:23:47
+8737,Everyone gets scared sometimes,-4,Negative,2026-03-25 20:23:47
+8736,""" The frog smiled and said, ""There's nothing wrong with being scared, just always be brave and face your fear",5,Positive,2026-03-25 20:23:47
+8735,"The frog bellowed ""Where are you going? Don't be a scaredy-cat!"" It made Bill feel better as he stopped and said shyly, ""I'm sorry, I thought you were scary",-5,Negative,2026-03-25 20:23:47
+8734,"Bill was so scared, he blinked his eyes and scurried away",-6,Negative,2026-03-25 20:23:47
+8733,"Suddenly, a big, tough frog jumped out from the bushes",-1,Negative,2026-03-25 20:23:47
+8732,"Curious, he crept closer to take a look",3,Positive,2026-03-25 20:23:47
+8731,"One day, Bill was walking around when he heard a noise in the bushes",0,Neutral,2026-03-25 20:23:47
+8730,He had 8 small legs and loved exploring in the garden,6,Positive,2026-03-25 20:23:47
+8729,"Once upon a time, there was a caterpillar called Bill",0,Neutral,2026-03-25 20:23:47
+8728,She knew that she had met something very unique that day,4,Positive,2026-03-25 20:23:47
+8727,"From that moment on, Ella was sure that her wishes would come true",7,Positive,2026-03-25 20:23:47
+8726,"She thanked the magical stove and stepped back, returning to her home",4,Positive,2026-03-25 20:23:47
+8725,Ella was so happy,7,Positive,2026-03-25 20:23:47
+8724,The magical stove granted all of Ella's wishes in an instant,4,Positive,2026-03-25 20:23:47
+8723,She thought for a short moment and made her wishes,2,Positive,2026-03-25 20:23:47
+8722,But she was also excited about her wishes,6,Positive,2026-03-25 20:23:47
+8721,Ella was baffled,0,Neutral,2026-03-25 20:23:47
+8720,"It said, ""I'm a magical stove! I can grant you three wishes!""",5,Positive,2026-03-25 20:23:47
+8719,It was coming from the stove,0,Neutral,2026-03-25 20:23:47
+8718,"Suddenly, out of nowhere, Ella heard a voice",0,Neutral,2026-03-25 20:23:47
+8717,"Ella stepped closer to the stove and asked, ""Who are you?""",0,Neutral,2026-03-25 20:23:47
+8716,It was very unique! Ella looked around and saw nobody,4,Positive,2026-03-25 20:23:47
+8715,"Ella followed the pathway until she reached a big, red stove in the middle of the forest",1,Positive,2026-03-25 20:23:47
+8714,"Then, she stepped out of her house and started walking",0,Neutral,2026-03-25 20:23:47
+8713,Ella grabbed her toys and her backpack,0,Neutral,2026-03-25 20:23:47
+8712,"She was very excited, because today was a very special day",10,Positive,2026-03-25 20:23:47
+8711,"Once, there was a little girl named Ella",0,Neutral,2026-03-25 20:23:47
+8710,Everyone in the park was happy to hear this and the kitty lived happily ever after,8,Positive,2026-03-25 20:23:47
+8709,"In fact, the kitty was so careful that it never lost the brush again",5,Positive,2026-03-25 20:23:47
+8708,The kitty was very careful with the brush from then on,6,Positive,2026-03-25 20:23:47
+8707,"The rabbit said, ""If you want the brush back, then you must be careful and not let it get lost again!"" The kitty agreed and happily went off with the brush",0,Positive,2026-03-25 20:23:47
+8706,The kitty asked the rabbit if he could lend the brush,0,Neutral,2026-03-25 20:23:47
+8705,"One day, the kitty was playing in the park when it saw its special brush with a rabbit",5,Positive,2026-03-25 20:23:47
+8704,"Every day, the kitty was so careless with the brush that it got lost",-7,Negative,2026-03-25 20:23:47
+8703,"Each day, the kitty would lend the brush to a friend in the park",5,Positive,2026-03-25 20:23:47
+8702,Once upon a time there was a kitty who liked to play with a special brush,8,Positive,2026-03-25 20:23:47
+8701,"From then on, they were the best of friends",8,Positive,2026-03-25 20:23:47
+8700,""" The two animals laughed happily",8,Positive,2026-03-25 20:23:47
+8699,""" The owl smiled and said, ""Yes, we did",7,Positive,2026-03-25 20:23:47
+8698,"The bear hugged the owl and said, ""We did it! We made it out of there together",4,Positive,2026-03-25 20:23:47
+8697,"Together, they ran through the forest until they emerged into the night sky, safe and sound",4,Positive,2026-03-25 20:23:47
+8696,"He said, ""Let's leave this place! Quickly!"" The owl got alert and flapped its wings",2,Positive,2026-03-25 20:23:47
+8695,The bear started to tremble,-3,Negative,2026-03-25 20:23:47
+8694,""" Suddenly, they heard a loud noise",0,Neutral,2026-03-25 20:23:47
+8693,I feel safer with you here,4,Positive,2026-03-25 20:23:46
+8692,""" The owl said, ""Thank you, bear",4,Positive,2026-03-25 20:23:46
+8691,I'm here with you,0,Neutral,2026-03-25 20:23:46
+8690,"I can barely see!"" The bear said, ""Don't be scared, little owl",3,Positive,2026-03-25 20:23:46
+8689,"The owl said, ""The trees are so dark here",0,Neutral,2026-03-25 20:23:46
+8688,"The second animal was a small, alert owl",3,Positive,2026-03-25 20:23:46
+8687,"The first animal was a big, strong bear",5,Positive,2026-03-25 20:23:46
+8686,"One night, two brave animals were walking through a dark forest",5,Positive,2026-03-25 20:23:46
+8685,Being thoughtful and using kind words can help keep friendships strong,9,Positive,2026-03-25 20:23:46
+8684,""" The moral of the story is that it is important to choose the right words when you talk to your friends",6,Positive,2026-03-25 20:23:46
+8683,We should always pick the right word to use when we talk to each other,0,Neutral,2026-03-25 20:23:46
+8682,"""That's a good idea",4,Positive,2026-03-25 20:23:46
+8681,"Sam laughed and said, ""I think I should pick a better word next time!"" Bob smiled and nodded",9,Positive,2026-03-25 20:23:46
+8680,"Listen, what sound does it make?"" Suddenly, the crow made a loud sound that sounded like ""Caw, Caw!"" ""That's a Caw,"" Bob smiled",7,Positive,2026-03-25 20:23:46
+8679,"Bob smiled and said, ""That's a Crow",5,Positive,2026-03-25 20:23:46
+8678,"""What's that?"" he asked Bob",0,Neutral,2026-03-25 20:23:46
+8677,Sam picked a flower and then pointed to a black bird in a tree,0,Neutral,2026-03-25 20:23:46
+8676,They were playing together in the garden one day,2,Positive,2026-03-25 20:23:46
+8675,Once there were two friends named Bob and Sam,5,Positive,2026-03-25 20:23:46
+8674,She never imagined it would end this way,0,Neutral,2026-03-25 20:23:46
+8673,She still remembers it with sadness,-4,Negative,2026-03-25 20:23:46
+8672,The little girl was never able to wear her dress again,0,Neutral,2026-03-25 20:23:46
+8671,"Tears ran down her face, and she had to go home without her perfect dress",-6,Negative,2026-03-25 20:23:46
+8670,She felt so sad and embarrassed,-8,Negative,2026-03-25 20:23:46
+8669,"The dress was too fancy, too 'fit' for school",4,Positive,2026-03-25 20:23:46
+8668,But then her teacher told her she couldn't wear it,0,Neutral,2026-03-25 20:23:46
+8667,She knew that it was the best choice she had ever made,6,Positive,2026-03-25 20:23:46
+8666,She was so proud and happy,8,Positive,2026-03-25 20:23:46
+8665,"When she got to school, all the other students crowded around to admire her dress",5,Positive,2026-03-25 20:23:46
+8664,"She was so excited, she decided to wear it that same day",5,Positive,2026-03-25 20:23:46
+8663,"It was her favourite colour, and it fit her perfectly",8,Positive,2026-03-25 20:23:46
+8662,"One day, she found the most perfect dress",6,Positive,2026-03-25 20:23:46
+8661,"Every day, she would go searching for new clothes that she could wear",0,Neutral,2026-03-25 20:23:46
+8660,She spent all of her time imagining what it would be like to have the perfect outfit for her,7,Positive,2026-03-25 20:23:46
+8659,"Once upon a time, there was a little girl who loved fashion",6,Positive,2026-03-25 20:23:46
+8658,"Annie learned that even if you are nosy, it is important to follow the advice of others and mind what you are doing",2,Positive,2026-03-25 20:23:46
+8657,"Now why donâ€™t we just run away and leave the arrow in peace?â€ And so, Annie and Wilbur ran away",-1,Negative,2026-03-25 20:23:46
+8656,""" Wilbur smiled back and replied, â€œThatâ€™s very wise young lady",10,Positive,2026-03-25 20:23:46
+8655,"â€ Annie smiled and said, â€œThank you Wilbur, I will mind your advice",5,Positive,2026-03-25 20:23:46
+8654,"I was worried that you may get injured, so I shouted",-6,Negative,2026-03-25 20:23:46
+8653,"The old man said, â€œMy name is Wilbur and I was just minding my own business when I saw you walking towards the arrow",0,Neutral,2026-03-25 20:23:46
+8652,"She walked up to the arrow and suddenly a voice shouted at her from behind, â€œBe careful not to touch it!â€ Annie jumped back in fright and saw an old man",-8,Negative,2026-03-25 20:23:46
+8651,Annie was nosy and wanted to take a closer look,0,Neutral,2026-03-25 20:23:46
+8650,In the middle of the clearing was an arrow,0,Neutral,2026-03-25 20:23:46
+8649,"One day, she was walking in the forest and came across a clearing",0,Neutral,2026-03-25 20:23:46
+8648,She was only three years old but she was full of energy and liked to explore,7,Positive,2026-03-25 20:23:46
+8647,"Once upon a time, there was a little girl named Annie",0,Neutral,2026-03-25 20:23:46
+8646,"When Jack got home he opened a bottle of the bad wine and took a sip - it tasted horrible! He thought to himself, ""Maybe I should have asked for something else!""",-8,Negative,2026-03-25 20:23:46
+8645,Jack thanked the shopkeeper and went home,4,Positive,2026-03-25 20:23:46
+8644,""" The shopkeeper counted out two bottles of wine and handed them to Jack",0,Neutral,2026-03-25 20:23:46
+8643,"Are you sure you want it?"" Jack thought for a moment then said, ""Yes, I will take it",6,Positive,2026-03-25 20:23:46
+8642,It's bad though,-5,Negative,2026-03-25 20:23:46
+8641,"He walked up to a store and asked the shopkeeper, ""Do you have any wine?"" The shopkeeper replied, ""Yes, I have some",4,Positive,2026-03-25 20:23:45
+8640,He wanted some wine but he didn't have any,0,Neutral,2026-03-25 20:23:45
+8639,Jack was feeling a bit sad,-4,Negative,2026-03-25 20:23:45
+8638,"Next time, she would know that she shouldn't leave getting milk too late",0,Positive,2026-03-25 20:23:45
+8637,Cindy was happy that she had recognized the problem,2,Positive,2026-03-25 20:23:45
+8636,They were relieved that the shopkeeper had already taken care of the problem,5,Positive,2026-03-25 20:23:45
+8635,But then they noticed something even more strange: the milk was gone too! The family soon realized what had happened: the shopkeeper had been preparing for a snowstorm and had run out of milk,-4,Negative,2026-03-25 20:23:45
+8634,When Cindy told her family the news they didn't recognize the problem,3,Positive,2026-03-25 20:23:45
+8633,"So, she said goodbye and went home",0,Neutral,2026-03-25 20:23:45
+8632,But she had to trust the shopkeeper,7,Positive,2026-03-25 20:23:45
+8631,Cindy wasn't happy about this,-5,Negative,2026-03-25 20:23:45
+8630,"""It's too hard for you to understand,"" the shopkeeper said",-1,Negative,2026-03-25 20:23:45
+8629,"One day when Cindy was at the store, she noticed something strange: the shelves were all empty! She asked the shopkeeper why the shelves were empty",-5,Negative,2026-03-25 20:23:45
+8628,She loved the store and was always greeted by the friendly shopkeeper,8,Positive,2026-03-25 20:23:45
+8627,"Every day, Cindy would go to the store to get milk for her family",0,Neutral,2026-03-25 20:23:45
+8626,"Once upon a time, there was a little girl named Cindy",0,Neutral,2026-03-25 20:23:45
+8625,What a delicious dinner!,6,Positive,2026-03-25 20:23:45
+8624,He had experienced the special and delightful taste of a strawberry,8,Positive,2026-03-25 20:23:45
+8623,""" Charlie picked one up, took a bite, and smiled",5,Positive,2026-03-25 20:23:45
+8622,"On the table was a plate full of fresh strawberries! He smiled and said, ""Mommy, did you know strawberries were my favorite?"" His mommy smiled and said, ""I had a feeling you would like them! Go ahead and taste them, they are so delicate and sweet",10,Positive,2026-03-25 20:23:45
+8621,"When they arrived home, Charlie couldn't believe his eyes",0,Neutral,2026-03-25 20:23:45
+8620,"He asked his mommy, ""What does this taste like?"" His mommy replied, ""Oh, it's very sweet! If you taste it, you'll love it!"" Charlie was so excited! He couldn't wait to get home and have his special dinner",10,Positive,2026-03-25 20:23:45
+8619,"As they walked through the store, Charlie reached out and touched a strawberry",1,Positive,2026-03-25 20:23:45
+8618,"Today, you can have whatever you want to eat!"" Charlie was so excited! He wondered what he should pick",5,Positive,2026-03-25 20:23:45
+8617,"One day, Charlie's mommy said ""Let's go to the store and get something special for dinner",4,Positive,2026-03-25 20:23:45
+8616,Charlie's mommy always said that stories were special and delicate,4,Positive,2026-03-25 20:23:45
+8615,Charlie loved stories more than anything else,6,Positive,2026-03-25 20:23:45
+8614,"Once, there was a small boy named Charlie",0,Neutral,2026-03-25 20:23:45
+8613,She smiled with relief and promised never to try big bubblegum again,8,Positive,2026-03-25 20:23:45
+8612,They showed her how to use a wet cloth to wipe the gum away,0,Neutral,2026-03-25 20:23:45
+8611,So she asked for help from her parents,4,Positive,2026-03-25 20:23:45
+8610,She wanted to hide but couldn't,-1,Negative,2026-03-25 20:23:45
+8609,She was so ashamed,-6,Negative,2026-03-25 20:23:45
+8608,Lucy looked down and saw her shirt was covered in gum,0,Neutral,2026-03-25 20:23:45
+8607,She started to sneeze and sneeze,0,Neutral,2026-03-25 20:23:45
+8606,"Suddenly, the bubble popped and tickled her nose",0,Neutral,2026-03-25 20:23:45
+8605,She put it in her mouth and blew a huge bubble,3,Positive,2026-03-25 20:23:45
+8604,One day Lucy thought it would be fun to try extra big bubblegum,5,Positive,2026-03-25 20:23:45
+8603,She had lots of different flavours and she ate it every day,0,Neutral,2026-03-25 20:23:45
+8602,She was three years old and she loved gum,6,Positive,2026-03-25 20:23:45
+8601,Once there was a girl named Lucy,0,Neutral,2026-03-25 20:23:45
+8600,She had learned her lesson that it is important to be respectful to all strangers,6,Positive,2026-03-25 20:23:45
+8599,Mia was very sorry for her behaviour and decided to never do something like this again,-2,Negative,2026-03-25 20:23:45
+8598,He explained to Mia that it was not appropriate to engage with strangers and it was wrong to interrupt people when they were talking,-10,Negative,2026-03-25 20:23:45
+8597,Soon enough the store manager got involved,0,Neutral,2026-03-25 20:23:45
+8596,He tried to explain but Mia kept on jumping and interrupting,-7,Negative,2026-03-25 20:23:45
+8595,He had never seen a little girl so eager to talk to him,4,Positive,2026-03-25 20:23:45
+8594,The lawyer was very confused,0,Positive,2026-03-25 20:23:45
+8593,"So, Mia jumped right up to the lawyer and asked him",-4,Negative,2026-03-25 20:23:45
+8592,She wanted to know what a lawyer did and why he was so dressed up,0,Neutral,2026-03-25 20:23:45
+8591,Mia had never seen a lawyer before so it made her very curious,5,Positive,2026-03-25 20:23:45
+8590,She saw a lawyer,0,Neutral,2026-03-25 20:23:45
+8589,One day Mia was at the supermarket and she saw something unusual,-3,Negative,2026-03-25 20:23:45
+8588,"At the park, she would jump into the sandbox",0,Neutral,2026-03-25 20:23:45
+8587,"When walking to school, she would jump on the sidewalk",0,Neutral,2026-03-25 20:23:45
+8586,"Everywhere she went, she jumped",0,Neutral,2026-03-25 20:23:45
+8585,Once there was a little girl called Mia who loved to jump,5,Positive,2026-03-25 20:23:45
+8584,She could tell the difference between a real card and a fake one,-5,Negative,2026-03-25 20:23:45
+8583,Emily was happy to have an even better game to play,8,Positive,2026-03-25 20:23:45
+8582,""" Mommy and Emily decided to get a new video game instead",0,Neutral,2026-03-25 20:23:45
+8581,It doesn't match the others,0,Neutral,2026-03-25 20:23:45
+8580,"""This card is fake",-5,Negative,2026-03-25 20:23:45
+8579,"""You're right,"" she said",0,Neutral,2026-03-25 20:23:45
+8578,"""It's fake!"" Mommy took the card and looked at it",-5,Negative,2026-03-25 20:23:45
+8577,"""Mommy, this card isn't real,"" she said",0,Neutral,2026-03-25 20:23:45
+8576,She pulled out one of the cards and looked closely at it,0,Neutral,2026-03-25 20:23:45
+8575,"""You're doing so well!"" But then, Emily noticed something strange",-1,Negative,2026-03-25 20:23:45
+8574,"""That's wonderful, sweetheart!"" Mommy replied",8,Positive,2026-03-25 20:23:45
+8573,"""Mommy, I think I'm getting really good at this!"" Emily said",5,Positive,2026-03-25 20:23:45
+8572,She liked watching the videos on the screen as she matched each card,4,Positive,2026-03-25 20:23:45
+8571,Emily was so excited to find the matching games at the store,5,Positive,2026-03-25 20:23:45
+8570,Mommy and Emily were playing a matching game together,2,Positive,2026-03-25 20:23:45
+8569,She was very happy,10,Positive,2026-03-25 20:23:45
+8568,"When she was done, the girl could play with her toys again and have lots of fun",7,Positive,2026-03-25 20:23:45
+8567,She was very pleased with her work,9,Positive,2026-03-25 20:23:44
+8566,Then she took some glue and fixed all the toys until they looked perfect,6,Positive,2026-03-25 20:23:44
+8565,She made sure to wash them all so they were nice and healthy,8,Positive,2026-03-25 20:23:44
+8564,She decided she would repair them and make them as good as new,4,Positive,2026-03-25 20:23:44
+8563,She went in the garage and saw that they had broken,-5,Negative,2026-03-25 20:23:44
+8562,"One day, the girl noticed something was wrong with her toys",-5,Negative,2026-03-25 20:23:44
+8561,Inside the garage she kept her toys,0,Neutral,2026-03-25 20:23:44
+8560,She had a garage,0,Neutral,2026-03-25 20:23:44
+8559,"Once, there was a girl",0,Neutral,2026-03-25 20:23:44
+8558,We should never take things for granted,2,Positive,2026-03-25 20:23:44
+8557,"The moral of the story is that when given something, it should be treated with gratitude and respect",8,Positive,2026-03-25 20:23:44
+8556,"The boy realized that it was not just available, it had been given to him to use with respect",-1,Negative,2026-03-25 20:23:44
+8555,"It said, ""Take care of the boat; treat it with respect""",8,Positive,2026-03-25 20:23:44
+8554,"But when he finished his ride, he noticed a sign near the shore",0,Neutral,2026-03-25 20:23:44
+8553,The boy took the boat out on the lake and had a wonderful time,6,Positive,2026-03-25 20:23:44
+8552,""" The boy was so excited! He couldn't wait to jump into the boat and go for a ride on the lake",5,Positive,2026-03-25 20:23:44
+8551,"He asked the boat, ""Are you available?"" The boat replied, ""Yes, I am available for you to use",4,Positive,2026-03-25 20:23:44
+8550,"As soon as the boy got to the lake, he noticed a boat on the shore",0,Neutral,2026-03-25 20:23:44
+8549,"It looked so inviting, so he decided to climb back down to the lake",5,Positive,2026-03-25 20:23:44
+8548,"When he reached the peak, he saw a lake below him",1,Positive,2026-03-25 20:23:44
+8547,"One day, he decided to climb to the top of a mountain to get a better view",6,Positive,2026-03-25 20:23:44
+8546,"Once upon a time, there was a boy who loved to climb",6,Positive,2026-03-25 20:23:44
+8545,"The button had separated them! But it was all worth it in the end, because a silly game can bring people together in the most unexpected of ways",4,Positive,2026-03-25 20:23:44
+8544,Jack and Jill were no longer together,-3,Negative,2026-03-25 20:23:44
+8543,"They were safe and sound, but something was different this time",2,Positive,2026-03-25 20:23:44
+8542,"Jill giggled and said: ""That was so silly!"" Jack laughed and said: ""Let's try the button one more time!"" So they pressed the button again and this time it sent them soaring high into the sky! Jack and Jill flew around, but eventually the button sent them back down to the ground",5,Positive,2026-03-25 20:23:44
+8541,This time the button spun them around and around until they were dizzy,-2,Negative,2026-03-25 20:23:44
+8540,"Jack shouted: ""Let's try again!"" So they took turns pushing the button again",0,Neutral,2026-03-25 20:23:44
+8539,Every time they pushed the button they would separate,0,Neutral,2026-03-25 20:23:44
+8538,Jack and Jill took turns pushing a big button,0,Neutral,2026-03-25 20:23:44
+8537,The game was silly,0,Positive,2026-03-25 20:23:44
+8536,Jack and Jill went up the hill to play a game,3,Positive,2026-03-25 20:23:44
+8535,"Once upon a time there were two friends, Jack and Jill",5,Positive,2026-03-25 20:23:44
+8534,"In the end, Billy was still the lightest and most graceful of them all!",5,Positive,2026-03-25 20:23:44
+8533,"Then, one by one he started to pick up all the things he had weighed with the spoon",0,Neutral,2026-03-25 20:23:44
+8532,Billy went flying around the world,0,Neutral,2026-03-25 20:23:44
+8531,"He spread his wings and flew higher, higher and higher until he was just a dot in the sky",0,Neutral,2026-03-25 20:23:44
+8530,His graceful moves caused even the clouds to watch,5,Positive,2026-03-25 20:23:44
+8529,So he started to dance in the sky,0,Neutral,2026-03-25 20:23:44
+8528,He found that he was very light! He was happy with his weight and wanted to celebrate,10,Positive,2026-03-25 20:23:44
+8527,Billy gathered his spoon and measured himself,0,Neutral,2026-03-25 20:23:44
+8526,He wanted to weigh himself with a spoon,0,Neutral,2026-03-25 20:23:44
+8525,One day he decided to try something new,0,Neutral,2026-03-25 20:23:44
+8524,He was always looking for something to do,0,Neutral,2026-03-25 20:23:44
+8523,Once there was a graceful bird called Billy,5,Positive,2026-03-25 20:23:44
+8522,"Grace said to Joe, ""Remember, if you help a friend in need, you will always be rewarded!"" Joe and Grace smiled and hugged each other, walked away with the deep red balloon, proud of the lesson they had learnt",10,Positive,2026-03-25 20:23:44
+8521,Joe was so relieved to be able to buy it after his friend helped him,8,Positive,2026-03-25 20:23:44
+8520,When Grace's mom arrived she saw that Joe wanted a deep red balloon,4,Positive,2026-03-25 20:23:44
+8519,She asked her mom to bring some money so Joe could buy a balloon,0,Neutral,2026-03-25 20:23:44
+8518,Grace saw how sad Joe was and wanted to help,3,Positive,2026-03-25 20:23:44
+8517,"Joe wanted one so badly, but he didn't have enough money",-4,Negative,2026-03-25 20:23:44
+8516,"When they got there, they saw a vendor with lots of colorful balloons",0,Neutral,2026-03-25 20:23:44
+8515,"One day, Joe and Grace decided to go to the town's marketplace",4,Positive,2026-03-25 20:23:44
+8514,They were always playing together and having so much fun,7,Positive,2026-03-25 20:23:44
+8513,"Once upon a time, there were two best friends, Joe and Grace",9,Positive,2026-03-25 20:23:44
+8512,He did not get to enjoy his ice-cream that day,-10,Negative,2026-03-25 20:23:44
+8511,""" Tim was very sad and walked away",-1,Negative,2026-03-25 20:23:44
+8510,The ice-cream is too old,0,Neutral,2026-03-25 20:23:44
+8509,"Tim screamed, ""Yuck! This ice-cream is bad!"" The ice-cream man just laughed and said, ""I am sorry, little boy",-5,Negative,2026-03-25 20:23:44
+8508,It tasted very bad,-2,Negative,2026-03-25 20:23:44
+8507,But it did not taste good at all,-10,Negative,2026-03-25 20:23:44
+8506,""" Tim took the ice-cream and started to eat it",0,Neutral,2026-03-25 20:23:44
+8505,Here you go,0,Neutral,2026-03-25 20:23:44
+8504,"Tim went to the truck and said, ""Hi, can I have ice-cream, please?"" The ice-cream man looked at him and said, ""Sure, little boy",6,Positive,2026-03-25 20:23:44
+8503,"The truck was very old and slow, but it had a big sign that said ""Ice-Cream""",4,Positive,2026-03-25 20:23:44
+8502,"One day, he saw an ancient ice-cream truck",0,Neutral,2026-03-25 20:23:44
+8501,Tim loved ice-cream so much,6,Positive,2026-03-25 20:23:44
+8500,"Once upon a time, in a small town, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:44
+8499,Tim and his teddy bear were very happy watching the birds together,10,Positive,2026-03-25 20:23:44
+8498,"Soon, the teddy bear was not sad anymore",-2,Negative,2026-03-25 20:23:44
+8497,They sat under a big tree and watched the birds sing and fly,0,Neutral,2026-03-25 20:23:44
+8496,Tim decided to take his sad teddy bear outside to watch the birds with him,-5,Negative,2026-03-25 20:23:44
+8495,He tried to make his teddy bear happy by giving it a hug and a kiss,9,Positive,2026-03-25 20:23:44
+8494,Tim did not know why his teddy bear was sad,-10,Negative,2026-03-25 20:23:44
+8493,"One day, Tim's teddy bear was sad",-5,Negative,2026-03-25 20:23:44
+8492,"Tim had a big, soft teddy bear that he loved very much",10,Positive,2026-03-25 20:23:44
+8491,He liked to play with his toys and watch the birds outside his window,6,Positive,2026-03-25 20:23:44
+8490,"Once upon a time, there was a little infant named Tim",0,Neutral,2026-03-25 20:23:44
+8489,"But she knew that flowers needed sun and water to grow, and her bedroom was not the best place for a flower to live",-10,Negative,2026-03-25 20:23:44
+8488,She wished she could help it more,4,Positive,2026-03-25 20:23:44
+8487,Sue felt bad for the flower,-5,Negative,2026-03-25 20:23:44
+8486,It stayed small and sad,-5,Negative,2026-03-25 20:23:44
+8485,""" In the end, the flower did not bloom",-6,Negative,2026-03-25 20:23:44
+8484,I cannot be a fancy flower in your room,0,Neutral,2026-03-25 20:23:44
+8483,"The flower became sad and said, ""I am sorry, Sue",-5,Negative,2026-03-25 20:23:44
+8482,"It tried very hard to bloom, but it could not",-3,Negative,2026-03-25 20:23:44
+8481,But the flower did not get enough sun,-6,Negative,2026-03-25 20:23:44
+8480,She gave it water and put it near the window,0,Neutral,2026-03-25 20:23:44
+8479,Sue tried to help the flower,4,Positive,2026-03-25 20:23:44
+8478,""" Sue liked the idea, but she knew that flowers needed sun and water to grow",2,Positive,2026-03-25 20:23:44
+8477,"Sue said to the flower, ""Hello, little flower! Why are you trying to bloom in my bedroom?"" The flower said, ""I want to be a fancy flower in your room",1,Positive,2026-03-25 20:23:44
+8476,The flower was trying to bloom,0,Neutral,2026-03-25 20:23:44
+8475,"One day, she saw a small flower in her room",0,Neutral,2026-03-25 20:23:44
+8474,She loved her room very much,10,Positive,2026-03-25 20:23:44
+8473,Sue had a big bedroom with fancy things in it,0,Neutral,2026-03-25 20:23:44
+8472,"Once upon a time, there was a little girl named Sue",0,Neutral,2026-03-25 20:23:44
+8471,And everyone in the town loved the humble girl who loved to give,8,Positive,2026-03-25 20:23:44
+8470,"From that day on, Lily always looked for ways to help others and share what she had",6,Positive,2026-03-25 20:23:44
+8469,""" The old lady was happy, and Lily felt good that she could help",9,Positive,2026-03-25 20:23:44
+8468,You are very kind,10,Positive,2026-03-25 20:23:44
+8467,""" The old lady smiled and said, ""Thank you, Lily",7,Positive,2026-03-25 20:23:44
+8466,"She gave the plate to the lady and said, ""Here, eat this",0,Neutral,2026-03-25 20:23:44
+8465,Lily put some food on a plate and went back to the old lady,0,Neutral,2026-03-25 20:23:44
+8464,""" Lily wanted to help her, so she ran home to get some food",4,Positive,2026-03-25 20:23:44
+8463,"Lily went to the lady and said, ""Why are you sad?"" The old lady said, ""I am hungry, and I have no food",-6,Negative,2026-03-25 20:23:44
+8462,"One day, she saw an old lady who looked sad",-5,Negative,2026-03-25 20:23:44
+8461,She loved to give and help others,8,Positive,2026-03-25 20:23:44
+8460,"Once upon a time, in a small town, there lived a humble girl named Lily",0,Neutral,2026-03-25 20:23:44
+8459,"Bloom's goal came true, and they all lived happily ever after",8,Positive,2026-03-25 20:23:44
+8458,"Because Bloom warned them, they all agreed that Bloom was the most beautiful flower in the garden",6,Positive,2026-03-25 20:23:44
+8457,"After the bug left, the flowers were safe and happy",8,Positive,2026-03-25 20:23:44
+8456,"Bloom was scared and said to the other flowers, ""Watch out! Dangerous bug is coming!"" The other flowers thanked Bloom for the warning, and they all hid from the bug",-7,Negative,2026-03-25 20:23:44
+8455,"One sunny day, Bloom saw a dangerous bug coming near the flowers",-1,Negative,2026-03-25 20:23:44
+8454,Bloom had a goal to be the most beautiful flower in the garden,6,Positive,2026-03-25 20:23:43
+8453,Bloom lived in a big garden with many other flowers,0,Neutral,2026-03-25 20:23:43
+8452,"Once upon a time, there was a little flower named Bloom",0,Neutral,2026-03-25 20:23:43
+8451,Lily and Tom were happy because they learned that sharing and helping others makes everyone happy,9,Positive,2026-03-25 20:23:43
+8450,"When they went home, they told their moms and dads about their new friend",5,Positive,2026-03-25 20:23:43
+8449,They learned that it is good to share and help others,8,Positive,2026-03-25 20:23:43
+8448,Lily and Tom played and had fun all day,7,Positive,2026-03-25 20:23:43
+8447,"Nice to meet you!"" They both drank water and played together",6,Positive,2026-03-25 20:23:43
+8446,"Let's be friends!"" The little boy smiled and said, ""Hi, I am Tom",7,Positive,2026-03-25 20:23:43
+8445,"Lily said, ""Hi, I am Lily",0,Neutral,2026-03-25 20:23:43
+8444,"Then, she saw a little boy who was also thirsty",0,Neutral,2026-03-25 20:23:43
+8443,"Lily was thirsty, so she drank some water",0,Neutral,2026-03-25 20:23:43
+8442,She turned the faucet and water came out,0,Neutral,2026-03-25 20:23:43
+8441,She went to the tree and saw a faucet,0,Neutral,2026-03-25 20:23:43
+8440,"At the park, Lily saw a wide tree",0,Neutral,2026-03-25 20:23:43
+8439,Lily was very happy and ran to the park,10,Positive,2026-03-25 20:23:43
+8438,"One day, her mom asked her to go to the park and play",3,Positive,2026-03-25 20:23:43
+8437,She lived in a small house with her mom and dad,0,Neutral,2026-03-25 20:23:43
+8436,"Once upon a time, there was a little girl named Lily",0,Neutral,2026-03-25 20:23:43
+8435,"When we wait for the right time, we can receive the best things in life",6,Positive,2026-03-25 20:23:43
+8434,The moral of the story is that patience is a good thing,4,Positive,2026-03-25 20:23:43
+8433,""" Tim was so happy! He had waited and now he had a big, beautiful pumpkin",9,Positive,2026-03-25 20:23:43
+8432,"Tim's mom said, ""Now you can receive the pumpkin, Tim",0,Neutral,2026-03-25 20:23:43
+8431,"Finally, the day came when the pumpkin was big and ready to be picked",4,Positive,2026-03-25 20:23:43
+8430,He knew that good things come to those who wait,4,Positive,2026-03-25 20:23:43
+8429,"As it grew, he learned to be patient",0,Neutral,2026-03-25 20:23:43
+8428,""" Tim waited and watched the pumpkin grow",0,Neutral,2026-03-25 20:23:43
+8427,You must wait for it to grow bigger,0,Neutral,2026-03-25 20:23:43
+8426,"Tim asked his mom, ""Can I receive this pumpkin, please?"" His mom looked at the pumpkin and said, ""It is not ready yet",-6,Negative,2026-03-25 20:23:43
+8425,It was not clear if the pumpkin was ready to be picked,-5,Negative,2026-03-25 20:23:43
+8424,"One day, Tim saw a small pumpkin in the garden",0,Neutral,2026-03-25 20:23:43
+8423,He loved their round shape and bright orange color,8,Positive,2026-03-25 20:23:43
+8422,Tim loved pumpkins,6,Positive,2026-03-25 20:23:43
+8421,"Once upon a time, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:43
+8420,Tim was happy that he found the amazing gum and could share it with his friends,9,Positive,2026-03-25 20:23:43
+8419,They all laughed and spoke about how great the gum was,8,Positive,2026-03-25 20:23:43
+8418,They chewed the gum and it was very yummy,10,Positive,2026-03-25 20:23:43
+8417,They broke it into small pieces and each took a piece,-4,Negative,2026-03-25 20:23:43
+8416,"Then, they decided to share the gum",3,Positive,2026-03-25 20:23:43
+8415,They all looked at the gum and talked about how amazing it was,6,Positive,2026-03-25 20:23:43
+8414,"Later, Tim and his friends sat under a big tree",5,Positive,2026-03-25 20:23:43
+8413,"It looks amazing, right?"" His friends nodded and smiled",9,Positive,2026-03-25 20:23:43
+8412,"Tim told them, ""I found it on the ground",0,Neutral,2026-03-25 20:23:43
+8411,They all wanted to see the amazing gum,6,Positive,2026-03-25 20:23:43
+8410,Tim took the gum out of his pocket and showed it to his friends,5,Positive,2026-03-25 20:23:43
+8409,He saw them playing and running,2,Positive,2026-03-25 20:23:43
+8408,""" Tim went to the park to play with his friends",7,Positive,2026-03-25 20:23:43
+8407,"He thought, ""I will show this to my friends later",5,Positive,2026-03-25 20:23:43
+8406,Tim picked it up and put it in his pocket,0,Neutral,2026-03-25 20:23:43
+8405,It looked amazing,6,Positive,2026-03-25 20:23:43
+8404,"One day, Tim found a big, pink gum on the ground",0,Neutral,2026-03-25 20:23:43
+8403,Tim loved to speak and play with his friends,9,Positive,2026-03-25 20:23:43
+8402,"Once upon a time, in a small town, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:43
+8401,"Then, they went back to playing with the big, red ball, laughing and having fun together",8,Positive,2026-03-25 20:23:43
+8400,"Binky was so happy! He wagged his tail and said, ""Thank you, Oliver!"" All the friends cheered and clapped",9,Positive,2026-03-25 20:23:43
+8399,""" Oliver used his sharp beak to carefully cut the bush and free Binky's tail",4,Positive,2026-03-25 20:23:43
+8398,"""I can help you get your tail out",4,Positive,2026-03-25 20:23:43
+8397,"""Don't cry, Binky,"" he said",4,Positive,2026-03-25 20:23:43
+8396,"Then, a wise, old owl named Oliver flew down from a tall tree",5,Positive,2026-03-25 20:23:43
+8395,"They pulled and pulled, but it was still stuck",-4,Negative,2026-03-25 20:23:43
+8394,Lulu and the other friends tried to help Binky get his tail out of the bush,7,Positive,2026-03-25 20:23:43
+8393,"""My tail is stuck!"" Binky said with a sad face",-6,Negative,2026-03-25 20:23:43
+8392,"""What's wrong, Binky?"" asked his friend, a cute, fluffy bunny named Lulu",5,Positive,2026-03-25 20:23:43
+8391,Binky's friends heard him cry and came running to help,4,Positive,2026-03-25 20:23:43
+8390,"""Ouch!"" he cried",-4,Negative,2026-03-25 20:23:43
+8389,"As they played, Binky's tail got caught in a bush",3,Positive,2026-03-25 20:23:42
+8388,"One sunny day, Binky and his friends were playing catch with a big, red ball",8,Positive,2026-03-25 20:23:42
+8387,"Binky had a long, waggy tail and loved to play with his friends",9,Positive,2026-03-25 20:23:42
+8386,"Once upon a time, in a big, green park, there was a small, messy dog named Binky",-4,Negative,2026-03-25 20:23:42
+8385,Tim had turned the empty box into a box filled with fun things,4,Positive,2026-03-25 20:23:42
+8384,They smiled and clapped,5,Positive,2026-03-25 20:23:42
+8383,He showed his mom and dad the full box,0,Neutral,2026-03-25 20:23:42
+8382,Tim felt proud of his search,5,Positive,2026-03-25 20:23:42
+8381,"After a while, the box was full",0,Neutral,2026-03-25 20:23:42
+8380,Tim was happy to see his box filling up,6,Positive,2026-03-25 20:23:42
+8379,He pushed the ball into the box too,0,Neutral,2026-03-25 20:23:42
+8378,"Next, he searched in his closet and found a ball",0,Neutral,2026-03-25 20:23:42
+8377,He pushed the toy into the box,0,Neutral,2026-03-25 20:23:42
+8376,Tim looked under his bed and found a soft toy,0,Neutral,2026-03-25 20:23:42
+8375,He started to search his room,0,Neutral,2026-03-25 20:23:42
+8374,A little boy named Tim wanted to find something to put in the box,0,Neutral,2026-03-25 20:23:42
+8373,The box was empty,-2,Negative,2026-03-25 20:23:42
+8372,"Once upon a time, in a small house, there was a big box",0,Neutral,2026-03-25 20:23:42
+8371,"After that, he continued playing with his hammer, but now he also had a new friend to play with",8,Positive,2026-03-25 20:23:42
+8370,"The bug was able to crawl out and said, ""Thank you, Tim!"" Tim felt happy that he helped the bug",7,Positive,2026-03-25 20:23:42
+8369,Tim used his big hammer to make a path in the mud,0,Neutral,2026-03-25 20:23:42
+8368,"The bug looked very sad, so Tim decided to help",2,Positive,2026-03-25 20:23:42
+8367,"Tim wanted to help, but he didn't want to delay his playtime",5,Positive,2026-03-25 20:23:42
+8366,"""Help me, please!"" said the bug",6,Positive,2026-03-25 20:23:42
+8365,"While he was playing, he saw a little bug stuck in the mud",0,Positive,2026-03-25 20:23:42
+8364,He took the hammer and went to play in the deep mud outside,3,Positive,2026-03-25 20:23:42
+8363,"One day, a boy named Tim found a big hammer in his toy box",0,Neutral,2026-03-25 20:23:42
+8362,His mom smiled and gave him a big hug,8,Positive,2026-03-25 20:23:42
+8361,Tim ate the cookies and told his mom about the toy gun and his adventures,0,Neutral,2026-03-25 20:23:42
+8360,She had made some yummy cookies for him,5,Positive,2026-03-25 20:23:42
+8359,He went back to his house and saw his mom in the kitchen,0,Neutral,2026-03-25 20:23:42
+8358,"After playing for a while, Tim started to feel hungry",2,Positive,2026-03-25 20:23:42
+8357,"Tim ran around the yard, laughing and having fun",8,Positive,2026-03-25 20:23:42
+8356,"He pretended to be a superhero, saving the world from bad guys",-5,Negative,2026-03-25 20:23:42
+8355,He was so happy! He picked up the gun and started to play with it,7,Positive,2026-03-25 20:23:42
+8354,"Inside the box, Tim found a toy gun",-3,Negative,2026-03-25 20:23:42
+8353,"So, he went closer to the box and took a peek",0,Neutral,2026-03-25 20:23:42
+8352,He wanted to know what was inside,0,Neutral,2026-03-25 20:23:42
+8351,Tim was very curious,8,Positive,2026-03-25 20:23:42
+8350,He saw a big box near the tree,0,Neutral,2026-03-25 20:23:42
+8349,"One day, a little boy named Tim went to play outside",3,Positive,2026-03-25 20:23:42
+8348,They both played with the chain and were happy friends again,8,Positive,2026-03-25 20:23:42
+8347,She went back to the dog and gave him the chain,0,Neutral,2026-03-25 20:23:42
+8346,"Later, the cat felt bad",-5,Negative,2026-03-25 20:23:42
+8345,The dog felt sad and guilty,-7,Negative,2026-03-25 20:23:42
+8344,The cat took the chain and ran away,0,Neutral,2026-03-25 20:23:42
+8343,The dog felt happy and closed his eyes,6,Positive,2026-03-25 20:23:41
+8342,She rubbed her head on the dog's leg,0,Neutral,2026-03-25 20:23:41
+8341,The cat had an idea,0,Neutral,2026-03-25 20:23:41
+8340,They both wanted it,0,Neutral,2026-03-25 20:23:41
+8339,"One day, they saw a shiny chain on the floor",0,Neutral,2026-03-25 20:23:41
+8338,They liked to play all day,6,Positive,2026-03-25 20:23:41
+8337,"Once upon a time, in a small house, there was a cat and a dog",0,Neutral,2026-03-25 20:23:41
+8336,"And Zigzag learned that it's okay to make mistakes, as long as you have good friends by your side",7,Positive,2026-03-25 20:23:41
+8335,They had so much fun playing together,7,Positive,2026-03-25 20:23:41
+8334,"They all twisted and turned, just like Zigzag",4,Positive,2026-03-25 20:23:41
+8333,"They all tried the twisty slide, too",0,Neutral,2026-03-25 20:23:41
+8332,Zigzag's friends told him not to be embarrassed,0,Positive,2026-03-25 20:23:41
+8331,They ran to help Zigzag get up,4,Positive,2026-03-25 20:23:41
+8330,But his friends did not laugh at him,-5,Negative,2026-03-25 20:23:41
+8329,He felt embarrassed because all his friends saw him fall,2,Positive,2026-03-25 20:23:41
+8328,He went so fast that he fell off at the end,0,Neutral,2026-03-25 20:23:41
+8327,Zigzag twisted and turned as he went down the slide,0,Neutral,2026-03-25 20:23:41
+8326,"He wanted to try it, so he ran up to the slide",0,Neutral,2026-03-25 20:23:41
+8325,"One day, Zigzag saw a big twisty slide",0,Neutral,2026-03-25 20:23:41
+8324,Zigzag loved to run and play in the park,7,Positive,2026-03-25 20:23:41
+8323,"Once upon a time, there was a little dog named Zigzag",0,Neutral,2026-03-25 20:23:41
+8322,"Elly and Benny became best friends, and they lived happily ever after",9,Positive,2026-03-25 20:23:41
+8321,She was special and had her own way to help others,7,Positive,2026-03-25 20:23:41
+8320,Elly learned that being different was not ugly,-2,Negative,2026-03-25 20:23:41
+8319,"Elly did, and all the animals felt cool and happy",7,Positive,2026-03-25 20:23:41
+8318,"Then, Benny asked Elly to use her big ears to fan the hot animals",3,Positive,2026-03-25 20:23:41
+8317,Elly did and the plants grew happy and green,6,Positive,2026-03-25 20:23:41
+8316,"They went to the river, and Benny asked Elly to use her long nose to spray water on the dry plants",0,Neutral,2026-03-25 20:23:41
+8315,""" Benny promised to show Elly how her big ears and long nose made her special",6,Positive,2026-03-25 20:23:41
+8314,You are special,4,Positive,2026-03-25 20:23:41
+8313,"Benny looked at Elly and said, ""I think you are not ugly",-2,Negative,2026-03-25 20:23:41
+8312,"Benny saw that Elly was sad and asked, ""Why are you sad, Elly?"" Elly told Benny that she felt ugly and did not like her big ears and long nose",-10,Negative,2026-03-25 20:23:41
+8311,"One day, a little bird named Benny flew to Elly",0,Neutral,2026-03-25 20:23:41
+8310,"She had big ears and a long nose, and she felt different from the other animals",0,Neutral,2026-03-25 20:23:41
+8309,Elly was sad because she thought she was ugly,-8,Negative,2026-03-25 20:23:41
+8308,"Once upon a time, there was a big gray elephant named Elly",0,Neutral,2026-03-25 20:23:41
+8307,And they all lived happily ever after,6,Positive,2026-03-25 20:23:41
+8306,He had his toy razor back and could play with it again,3,Positive,2026-03-25 20:23:41
+8305,"After that, Tim was not nervous anymore",-4,Negative,2026-03-25 20:23:41
+8304,The girl was nice and gave it back to him,4,Positive,2026-03-25 20:23:41
+8303,He went to the girl and told her that it was his toy,0,Neutral,2026-03-25 20:23:41
+8302,It was his toy razor! Tim was so happy,7,Positive,2026-03-25 20:23:41
+8301,He looked closer and recognized it,0,Neutral,2026-03-25 20:23:41
+8300,"Then, Tim saw a girl playing with a toy",2,Positive,2026-03-25 20:23:41
+8299,He wanted to find it and play with it again,3,Positive,2026-03-25 20:23:41
+8298,He missed his toy razor so much,-3,Negative,2026-03-25 20:23:41
+8297,Tim was very sad,-1,Negative,2026-03-25 20:23:41
+8296,"He looked and looked, but he could not find it",-6,Negative,2026-03-25 20:23:41
+8295,He thought maybe he left his toy razor there,0,Neutral,2026-03-25 20:23:41
+8294,"One day, Tim went to the park with his mom",0,Neutral,2026-03-25 20:23:40
+8293,"But now, it was gone",0,Neutral,2026-03-25 20:23:40
+8292,"Every day, he would play with his toy razor",3,Positive,2026-03-25 20:23:40
+8291,He loved to pretend to shave like his dad,7,Positive,2026-03-25 20:23:40
+8290,He had lost his toy razor,-3,Negative,2026-03-25 20:23:40
+8289,Tim was very nervous,1,Positive,2026-03-25 20:23:40
+8288,"Once upon a time, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:40
+8287,"From that day on, she always mixed yummy soup for her lunch",5,Positive,2026-03-25 20:23:40
+8286,She was very happy and full,10,Positive,2026-03-25 20:23:40
+8285,The old lady thought it was the best soup she ever had,6,Positive,2026-03-25 20:23:40
+8284,She let the soup cool down and then she ate it,3,Positive,2026-03-25 20:23:40
+8283,The old lady was very careful not to touch the smoke or the pot,0,Positive,2026-03-25 20:23:40
+8282,She knew that meant the soup was very hot,4,Positive,2026-03-25 20:23:40
+8281,"As she mixed the soup, she saw some smoke come out of her pot",0,Neutral,2026-03-25 20:23:40
+8280,"One day, she decided to mix some yummy soup for her lunch",5,Positive,2026-03-25 20:23:40
+8279,She loved to mix things in her big pot,6,Positive,2026-03-25 20:23:40
+8278,"Once upon a time, there was an old lady who lived in a small house",0,Neutral,2026-03-25 20:23:40
+8277,And they became the best of friends,8,Positive,2026-03-25 20:23:40
+8276,The bird and the boat played together in the water all day long,3,Positive,2026-03-25 20:23:40
+8275,The boat was able to float again and it was very happy,10,Positive,2026-03-25 20:23:40
+8274,"Together, the bird and the boat went to the big pond",0,Neutral,2026-03-25 20:23:40
+8273,It came back and told the boat about the pond,0,Neutral,2026-03-25 20:23:40
+8272,The bird flew away and soon found a big pond,0,Neutral,2026-03-25 20:23:40
+8271,"Then you can float again!"" The boat was happy and thanked the bird",8,Positive,2026-03-25 20:23:40
+8270,"The bird told the boat, ""I will find more water for you",0,Neutral,2026-03-25 20:23:40
+8269,""" The bird wanted to help the boat, so it thought of an easy plan",7,Positive,2026-03-25 20:23:40
+8268,I miss the water,-2,Negative,2026-03-25 20:23:40
+8267,"A bird saw the boat and asked, ""Why are you sad, little boat?"" The boat said, ""The water is dry and I cannot float",-5,Negative,2026-03-25 20:23:40
+8266,The boat was sad because it could not float anymore,-10,Negative,2026-03-25 20:23:40
+8265,"One day, the sun was very hot and the water began to dry up",4,Positive,2026-03-25 20:23:40
+8264,The boat was blue and it liked to float on the water,4,Positive,2026-03-25 20:23:40
+8263,"Once upon a time, there was a little boat",0,Neutral,2026-03-25 20:23:40
+8262,Tim felt better and played with his toys while he waited for his vest to dry,6,Positive,2026-03-25 20:23:40
+8261,"She told him not to worry, she would dry the vest",-3,Negative,2026-03-25 20:23:40
+8260,His mom saw him weep and hugged him,-2,Negative,2026-03-25 20:23:40
+8259,He was sad because his favorite vest was wet,0,Negative,2026-03-25 20:23:40
+8258,Tim took off his wet vest and started to weep,-6,Negative,2026-03-25 20:23:40
+8257,His mom saw his wet vest and told him to take it off,0,Neutral,2026-03-25 20:23:40
+8256,"Tim did not like being wet, so he went back inside his house",-9,Negative,2026-03-25 20:23:40
+8255,The rain made Tim and his vest very wet,4,Positive,2026-03-25 20:23:40
+8254,"One day, it started to rain when Tim was playing outside",2,Positive,2026-03-25 20:23:40
+8253,He wore it all the time,0,Neutral,2026-03-25 20:23:40
+8252,It was a pretty vest with many colors,5,Positive,2026-03-25 20:23:40
+8251,Tim had a favorite vest that he loved to wear,8,Positive,2026-03-25 20:23:40
+8250,"Once upon a time, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:40
+8249,They learned never to pick up gum from the ground again,0,Neutral,2026-03-25 20:23:40
+8248,Tom and Sam were very sad,-1,Negative,2026-03-25 20:23:40
+8247,"The monster caught them, and they lost the game",-3,Negative,2026-03-25 20:23:40
+8246,The gum made them feel sick and slow,-5,Negative,2026-03-25 20:23:40
+8245,"But this time, they did not escape",-8,Negative,2026-03-25 20:23:40
+8244,They both chewed the gum and started to run from the monster again,0,Neutral,2026-03-25 20:23:40
+8243,Tom took out the thin gum and shared it with Sam,3,Positive,2026-03-25 20:23:40
+8242,He thought it could help them win the game,8,Positive,2026-03-25 20:23:39
+8241,"Tom felt scared, but he remembered his special gum",4,Positive,2026-03-25 20:23:39
+8240,"They ran and hid, but the monster always found them",-1,Negative,2026-03-25 20:23:39
+8239,They played a game where they had to escape from a pretend monster,4,Positive,2026-03-25 20:23:39
+8238,"Tom went to play with his friend, Sam",7,Positive,2026-03-25 20:23:39
+8237,He put the gum in his pocket to save it for later,5,Positive,2026-03-25 20:23:39
+8236,He thought it was very special,9,Positive,2026-03-25 20:23:39
+8235,"One day, he found a thin piece of gum on the ground",0,Neutral,2026-03-25 20:23:39
+8234,He loved gum,6,Positive,2026-03-25 20:23:39
+8233,"Once upon a time, there was a boy named Tom",0,Neutral,2026-03-25 20:23:39
+8232,They were happy and had lots of fun,8,Positive,2026-03-25 20:23:39
+8231,The cat loved to feel the music from Lily's flute,6,Positive,2026-03-25 20:23:39
+8230,They played and danced together every day,3,Positive,2026-03-25 20:23:39
+8229,Lily and the deaf cat became best friends,8,Positive,2026-03-25 20:23:39
+8228,The cat was happy and started to dance,6,Positive,2026-03-25 20:23:39
+8227,The cat could feel the music through the string,0,Neutral,2026-03-25 20:23:39
+8226,She would stretch a big string from her flute to the cat's ear,0,Neutral,2026-03-25 20:23:39
+8225,Lily had an idea,0,Neutral,2026-03-25 20:23:39
+8224,Lily wanted to help the cat hear her music,4,Positive,2026-03-25 20:23:39
+8223,"One day, she met a deaf cat who could not hear her play the flute",-9,Negative,2026-03-25 20:23:39
+8222,She had a flute that she loved to play,7,Positive,2026-03-25 20:23:39
+8221,"Once upon a time, there was a girl named Lily",0,Neutral,2026-03-25 20:23:39
+8220,"Then, they went home, happy and wet",6,Positive,2026-03-25 20:23:39
+8219,They played and sprayed water until the sun went down,3,Positive,2026-03-25 20:23:39
+8218,"Spot jumped and barked, trying to catch the water",0,Neutral,2026-03-25 20:23:39
+8217,She sprayed the water on the boat and on Spot,0,Neutral,2026-03-25 20:23:39
+8216,Lily picked up a hose and started to spray water,0,Neutral,2026-03-25 20:23:39
+8215,They both laughed and clapped their hands,5,Positive,2026-03-25 20:23:39
+8214,"She said, ""Wow, Spot! Did you see that big fish?"" Spot barked and wagged his tail",6,Positive,2026-03-25 20:23:39
+8213,Lily saw a big fish jump out of the water,0,Neutral,2026-03-25 20:23:39
+8212,They liked to play and have fun together,8,Positive,2026-03-25 20:23:39
+8211,"A girl named Lily and her dog, Spot, were on the boat",0,Neutral,2026-03-25 20:23:39
+8210,The boat was red and blue,0,Neutral,2026-03-25 20:23:39
+8209,"One sunny day, a pretty boat was on the water",7,Positive,2026-03-25 20:23:39
+8208,He couldn't wait to come back to the park again,0,Neutral,2026-03-25 20:23:39
+8207,"When it was time to go home, Tim felt tired but happy",6,Positive,2026-03-25 20:23:39
+8206,He played and laughed a lot,7,Positive,2026-03-25 20:23:39
+8205,Tim had a successful day at the park,6,Positive,2026-03-25 20:23:39
+8204,"He played with his ball, ran around, and had a lot of fun",7,Positive,2026-03-25 20:23:39
+8203,Tim liked the tree a lot,4,Positive,2026-03-25 20:23:39
+8202,"So, he hugged the tree and felt good",7,Positive,2026-03-25 20:23:39
+8201,He wanted to give the tree a hug,5,Positive,2026-03-25 20:23:39
+8200,"At the park, Tim saw a big tree",0,Neutral,2026-03-25 20:23:39
+8199,He was very happy,10,Positive,2026-03-25 20:23:39
+8198,"One day, Tim went to the park with his mom and dad",0,Neutral,2026-03-25 20:23:39
+8197,Tim loved going to the park to play,7,Positive,2026-03-25 20:23:39
+8196,"Once upon a time, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:39
+8195,"And they both learned that even in smelly places, good things can happen",4,Positive,2026-03-25 20:23:39
+8194,"Tim was happy, and the mouse was happy too",8,Positive,2026-03-25 20:23:39
+8193,""" Tim agreed, and they got the coin together",3,Positive,2026-03-25 20:23:39
+8192,"The mouse said, ""I will help you get the coin, but you must help me too",7,Positive,2026-03-25 20:23:39
+8191,"As Tim got closer to the hole, he saw a little mouse",0,Neutral,2026-03-25 20:23:39
+8190,""" So, Tim went to the smelly tree and tried to get the coin from the hole",0,Neutral,2026-03-25 20:23:39
+8189,""" His friend said, ""Be brave, Tim! You can get the coin",8,Positive,2026-03-25 20:23:38
+8188,"Tim said to his friend, ""I want that coin, but the tree is smelly and rot",3,Positive,2026-03-25 20:23:38
+8187,A boy named Tim saw the coin and wanted it,0,Neutral,2026-03-25 20:23:38
+8186,"In the hole, there was a shiny coin",0,Neutral,2026-03-25 20:23:38
+8185,"By the tree, there was a big hole",0,Neutral,2026-03-25 20:23:38
+8184,"Once upon a time, there was a smelly old tree",0,Neutral,2026-03-25 20:23:38
+8183,"They all had a fun day, playing and relaxing together in their new secret place",8,Positive,2026-03-25 20:23:38
+8182,It was a quiet spot with lots of colorful plants and pretty shells,5,Positive,2026-03-25 20:23:38
+8181,"One day, the mysterious whale and the little fish found a beautiful place to relax",8,Positive,2026-03-25 20:23:38
+8180,"The little fish would swim around the whale, and they all felt happy and safe",8,Positive,2026-03-25 20:23:38
+8179,It would lay on its back and let the waves rock it like a baby,4,Positive,2026-03-25 20:23:38
+8178,The mysterious whale loved to relax in the warm water,8,Positive,2026-03-25 20:23:38
+8177,It had a big smile on its face and liked to play with the little fish,8,Positive,2026-03-25 20:23:38
+8176,The whale was very mysterious,4,Positive,2026-03-25 20:23:38
+8175,"One day, a big whale was swimming in the deep blue sea",0,Neutral,2026-03-25 20:23:38
+8174,And he was no longer worried,-1,Negative,2026-03-25 20:23:38
+8173,Tim felt proud that he could build something so nice for his mom,8,Positive,2026-03-25 20:23:38
+8172,"When Tim's mom saw the present, she was so happy! She gave Tim a big hug and thanked him for the special gift",9,Positive,2026-03-25 20:23:38
+8171,They worked together to make the present look nice,4,Positive,2026-03-25 20:23:38
+8170,"Together, they found some big boxes, pretty paper, and a big bow",5,Positive,2026-03-25 20:23:38
+8169,He asked his dad for help,4,Positive,2026-03-25 20:23:38
+8168,He didn't know if he could build the present all by himself,0,Neutral,2026-03-25 20:23:38
+8167,Tim was worried,-3,Negative,2026-03-25 20:23:38
+8166,"Then, he had an idea! He would build a big present for her",0,Neutral,2026-03-25 20:23:38
+8165,He thought and thought about what to make,0,Neutral,2026-03-25 20:23:38
+8164,Tim wanted to build something special for his mom's birthday,4,Positive,2026-03-25 20:23:38
+8163,"Once upon a time, there was a little boy named Tim",0,Neutral,2026-03-25 20:23:38
+8162,"The moral of the story is to be kind and helpful, just like the kind bear in the book",9,Positive,2026-03-25 20:23:38
+8161,They learned that being kind and helpful to others made them happy too,9,Positive,2026-03-25 20:23:38
+8160,"As they spent more time being helpful, Lily and her friends felt happy",9,Positive,2026-03-25 20:23:38
+8159,They also helped their friends when they fell down or needed a friend to play with,8,Positive,2026-03-25 20:23:38
+8158,They helped their teacher clean the classroom,4,Positive,2026-03-25 20:23:38
+8157,"So, they decided to help others too",4,Positive,2026-03-25 20:23:38
+8156,They wanted to be like the kind bear in the book,7,Positive,2026-03-25 20:23:38
+8155,They all liked the story,4,Positive,2026-03-25 20:23:38
+8154,Lily read the book to her friends,5,Positive,2026-03-25 20:23:38
+8153,The book was about a kind bear who helped everyone in the forest,5,Positive,2026-03-25 20:23:38
+8152,"One day, she found a new book at school",0,Neutral,2026-03-25 20:23:38
+8151,She loved to read books and spend time with her friends,8,Positive,2026-03-25 20:23:38
+8150,"Once upon a time, there was a helpful girl named Lily",4,Positive,2026-03-25 20:23:38
+8149,Sue and Sam were very happy,10,Positive,2026-03-25 20:23:38
+8148,Sue would laugh and clap her hands,6,Positive,2026-03-25 20:23:38
+8147,"They would race, but Sam was always slow",0,Neutral,2026-03-25 20:23:38
+8146,Sue and Sam played together every day,3,Positive,2026-03-25 20:23:38
+8145,She named the snail Sam,0,Neutral,2026-03-25 20:23:38
+8144,Sue wanted to be friends with the snail,5,Positive,2026-03-25 20:23:38
+8143,The snail had a pretty shell,5,Positive,2026-03-25 20:23:38
+8142,"One day, Sue saw a slow snail in her garden",0,Neutral,2026-03-25 20:23:38
+8141,She would play with her hair all day,3,Positive,2026-03-25 20:23:38
+8140,Sue had long hair that would remind her of a rainbow,0,Neutral,2026-03-25 20:23:38
+8139,"Once upon a time, there was a girl named Sue",0,Neutral,2026-03-25 20:23:38
+8138,"The vegetables were gone, and Tim felt very bad",-2,Negative,2026-03-25 20:23:38
+8137,"But now, it was too late",0,Neutral,2026-03-25 20:23:38
+8136,He wished he had listened to his mom and shared with the neighbors,3,Positive,2026-03-25 20:23:38
+8135,He felt very full and sick,-2,Negative,2026-03-25 20:23:38
+8134,"That night, Tim ate all the vegetables by himself",0,Neutral,2026-03-25 20:23:38
+8133,"Tim did not want to share, so he said no",-10,Negative,2026-03-25 20:23:38
+8132,They knocked on Tim's door and asked if he had any food to share,3,Positive,2026-03-25 20:23:38
+8131,The neighbors were sad because they had no food to eat,-6,Negative,2026-03-25 20:23:38
+8130,""" So, he took the vegetables and hid them in his room",-1,Negative,2026-03-25 20:23:38
+8129,""" Tim thought about it and then said, ""No, I don't want to share",-5,Negative,2026-03-25 20:23:38
+8128,"But Mom told him, ""If you share, you will make others happy",8,Positive,2026-03-25 20:23:38
+8127,He wanted to keep them all for himself,0,Neutral,2026-03-25 20:23:38
+8126,""" Tim did not want to share the vegetables",-9,Negative,2026-03-25 20:23:37
+8125,It is not good to be selfish,-10,Negative,2026-03-25 20:23:37
+8124,"""Tim,"" said Mom, ""we need to share these vegetables with our neighbors",3,Positive,2026-03-25 20:23:37
+8123,She wanted to explain to Tim why it was important to share,5,Positive,2026-03-25 20:23:37
+8122,"One day, his mom brought home a big bag of vegetables",0,Neutral,2026-03-25 20:23:37
+8121,He did not like to share his things with others,-10,Negative,2026-03-25 20:23:37
+8120,Tim was a selfish boy,-5,Negative,2026-03-25 20:23:37
+8119,"Once upon a time, in a small house, there lived a boy named Tim",0,Neutral,2026-03-25 20:23:37
+8118,They both learned to be more careful with their things,2,Positive,2026-03-25 20:23:37
+8117,"Now, he could not catch yummy fish",-10,Negative,2026-03-25 20:23:37
+8116,""" Tim was very sad",-1,Negative,2026-03-25 20:23:37
+8115,"He said, ""I am sorry, I broke your pole",-5,Negative,2026-03-25 20:23:37
+8114,Sam went back to Tim with the broken pole,-5,Negative,2026-03-25 20:23:37
+8113,But the pole broke! Sam felt sad,-8,Negative,2026-03-25 20:23:37
+8112,He pulled the pole very hard,2,Positive,2026-03-25 20:23:37
+8111,He wanted to catch it,0,Neutral,2026-03-25 20:23:37
+8110,"He saw a big, yummy fish",5,Positive,2026-03-25 20:23:37
+8109,He tried to catch a fish,0,Neutral,2026-03-25 20:23:37
+8108,"Sam saw the pole and asked, ""Can you lend me your pole?"" Tim said, ""Yes, but be careful!"" Sam took the pole and went to the river",4,Positive,2026-03-25 20:23:37
+8107,"One day, his friend Sam came to play",7,Positive,2026-03-25 20:23:37
+8106,He had a long pole to catch fish,0,Neutral,2026-03-25 20:23:37
+8105,Tim liked to fish,4,Positive,2026-03-25 20:23:37
+8104,"Once, there was a boy named Tim",0,Neutral,2026-03-25 20:23:37
+8103,They were best friends forever,8,Positive,2026-03-25 20:23:37
+8102,The polite crab was happy too,6,Positive,2026-03-25 20:23:37
+8101,The new friend was happy,8,Positive,2026-03-25 20:23:37
+8100,They had lots of fun,5,Positive,2026-03-25 20:23:37
+8099,They played all day,3,Positive,2026-03-25 20:23:37
+8098,The polite crab showed the new friend how to play,7,Positive,2026-03-25 20:23:37
+8097,The crab wanted to help the new friend,7,Positive,2026-03-25 20:23:37
+8096,The new friend did not know how to play,1,Positive,2026-03-25 20:23:37
+8095,"One day, the crab met a new friend",5,Positive,2026-03-25 20:23:37
+8094,The crab had many friends,5,Positive,2026-03-25 20:23:37
+8093,The crab lived in the sea,0,Neutral,2026-03-25 20:23:37
+8092,"Once upon a time, there was a polite crab",0,Neutral,2026-03-25 20:23:37
+8091,And that is the story of the silly cat and the hoop,0,Positive,2026-03-25 20:23:37
+8090,Tom had so much fun playing with his new toy,7,Positive,2026-03-25 20:23:37
+8089,He jumped through the hoop and chased it around the yard,0,Neutral,2026-03-25 20:23:37
+8088,"Now, the hoop was just the right size for Tom to play with",3,Positive,2026-03-25 20:23:37
+8087,The hoop started to stretch! It got smaller and smaller,0,Neutral,2026-03-25 20:23:37
+8086,He put his paws on the hoop and pulled as hard as he could,-1,Negative,2026-03-25 20:23:37
+8085,He would stretch the hoop to make it smaller,0,Neutral,2026-03-25 20:23:37
+8084,Tom had an idea,0,Neutral,2026-03-25 20:23:37
+8083,Tom thought very hard about how to make the hoop smaller,2,Positive,2026-03-25 20:23:37
+8082,"He wanted to play with it, but it was too big",2,Positive,2026-03-25 20:23:37
+8081,"One day, a silly cat named Tom found a hoop in the yard",0,Positive,2026-03-25 20:23:37
+8080,And they lived happily ever after,6,Positive,2026-03-25 20:23:37
+8079,They learned to share and play together,6,Positive,2026-03-25 20:23:37
+8078,The octopus and the fish were happy again,6,Positive,2026-03-25 20:23:36
+8077,Everyone laughed and had fun,7,Positive,2026-03-25 20:23:36
+8076,They picked up the big jug together and poured water on all their friends,5,Positive,2026-03-25 20:23:36
+8075,"He said, ""Let's both pour the water!"" The fish liked the idea",4,Positive,2026-03-25 20:23:36
+8074,"Then, the octopus had an idea",0,Neutral,2026-03-25 20:23:36
+8073,"The octopus said, ""I want to pour the water!"" The fish said, ""No, I want to pour the water!"" They were not happy",-10,Negative,2026-03-25 20:23:36
+8072,But they couldn't agree on who would pour the water,-4,Negative,2026-03-25 20:23:36
+8071,They wanted to pour water on their friends for fun,8,Positive,2026-03-25 20:23:36
+8070,"One day, the octopus and the fish found a big jug",0,Neutral,2026-03-25 20:23:36
+8069,They played together every day,3,Positive,2026-03-25 20:23:36
+8068,"He had a friend, a reliable fish",5,Positive,2026-03-25 20:23:36
+8067,He lived in the deep blue sea,0,Neutral,2026-03-25 20:23:36
+8066,"Once upon a time, there was a big octopus",0,Neutral,2026-03-25 20:23:36
+8065,"They had lots of fun together, and they lived happily ever after",8,Positive,2026-03-25 20:23:36
+8064,"From that day on, Fluffy and Timmy played a game where they would teach each other new words",3,Positive,2026-03-25 20:23:36
+8063,She liked learning new words with Timmy,4,Positive,2026-03-25 20:23:36
+8062,""" Timmy clapped his hands and said, ""Good job, Fluffy! You said the word!"" Fluffy was very happy",10,Positive,2026-03-25 20:23:36
+8061,""" Fluffy tried again and said, ""Meow-peat",0,Neutral,2026-03-25 20:23:36
+8060,""" Timmy laughed and said, ""No, Fluffy, say 'repeat'",2,Positive,2026-03-25 20:23:36
+8059,"Can you say 'repeat'?"" Fluffy looked at Timmy and said, ""Meow",0,Neutral,2026-03-25 20:23:36
+8058,"Timmy said, ""Fluffy, the word is 'repeat'",0,Neutral,2026-03-25 20:23:36
+8057,He wanted to teach Fluffy the word too,0,Neutral,2026-03-25 20:23:36
+8056,"One day, Timmy learned a new word at school",0,Neutral,2026-03-25 20:23:36
+8055,"Fluffy liked to chase Timmy, and Timmy liked to run",7,Positive,2026-03-25 20:23:36
+8054,They played outside in the sun every day,3,Positive,2026-03-25 20:23:36
+8053,"Fluffy loved to play with her best friend, a small boy named Timmy",9,Positive,2026-03-25 20:23:36
+8052,"Once upon a time, there was a little white cat named Fluffy",0,Neutral,2026-03-25 20:23:36
+8051,The queen smiled and had a good day,8,Positive,2026-03-25 20:23:36
+8050,"Now, the queen could relax in her big, pretty castle",7,Positive,2026-03-25 20:23:36
+8049,She was happy to be away from the disgusting bug,1,Positive,2026-03-25 20:23:36
+8048,The queen went back to her castle,0,Neutral,2026-03-25 20:23:36
+8047,The queen did not like the disgusting bug,-4,Negative,2026-03-25 20:23:36
+8046,The bug was disgusting,-5,Negative,2026-03-25 20:23:36
+8045,The queen saw a bug,0,Neutral,2026-03-25 20:23:36
+8044,"She sat on a soft, green grass",0,Neutral,2026-03-25 20:23:36
+8043,The queen went to the park to relax,4,Positive,2026-03-25 20:23:36
+8042,"But today, she wanted to relax",6,Positive,2026-03-25 20:23:36
+8041,The queen had a lot of work to do every day,0,Neutral,2026-03-25 20:23:36
+8040,"She had a big, pretty castle",5,Positive,2026-03-25 20:23:36
+8039,She was a very nice queen,9,Positive,2026-03-25 20:23:36
+8038,"Once upon a time, there was a queen",0,Neutral,2026-03-25 20:23:36
+8037,"The mushroom and the bunny were the best of friends, and they played in the forest every day",9,Positive,2026-03-25 20:23:36
+8036,"Now, the mushroom was safe and cool",6,Positive,2026-03-25 20:23:36
+8035,"So, the bunny dug a hole in the ground and put the mushroom inside",0,Neutral,2026-03-25 20:23:36
+8034,"As they played, the bunny realized that the mushroom needed help to hide from the harsh sun",1,Positive,2026-03-25 20:23:36
+8033,"Let's play together!"" The bunny and the mushroom played all day, and they were very happy",10,Positive,2026-03-25 20:23:36
+8032,"""Sure, I will be your friend",7,Positive,2026-03-25 20:23:36
+8031,"The mushroom called out, ""Hello, bunny! Will you be my friend?"" The bunny looked at the mushroom and smiled",8,Positive,2026-03-25 20:23:36
+8030,"One day, a little bunny came hopping by",0,Neutral,2026-03-25 20:23:36
+8029,It wanted to find a friend to play with and to help it hide from the sun,8,Positive,2026-03-25 20:23:36
+8028,"The sun was very harsh, and the mushroom did not like it",-8,Negative,2026-03-25 20:23:36
+8027,It was all alone,-2,Negative,2026-03-25 20:23:35
+8026,"Once upon a time, in a big forest, there was a tiny mushroom",0,Neutral,2026-03-25 20:23:35
+8025,"From that night on, the ghost would always visit Amy and help her pick the best dreams, and they became the best of friends",9,Positive,2026-03-25 20:23:35
+8024,"And so, Amy had a wonderful dream, thanks to the kind ghost",9,Positive,2026-03-25 20:23:35
+8023,""" Amy closed her eyes, feeling happy and safe with her new friend",9,Positive,2026-03-25 20:23:35
+8022,"Now, go back to sleep and enjoy your dream",6,Positive,2026-03-25 20:23:35
+8021,"Amy said, ""Thank you, ghost!"" The ghost smiled and said, ""You're welcome",7,Positive,2026-03-25 20:23:35
+8020,""" Together, they picked a dream about playing in a big park with lots of friends",7,Positive,2026-03-25 20:23:35
+8019,""" Amy asked the ghost, ""Can you help me pick a dream?"" The ghost smiled and said, ""Of course! Let's pick a happy dream for you",9,Positive,2026-03-25 20:23:35
+8018,"The ghost said, ""Hello, Amy! I am here to help you",1,Positive,2026-03-25 20:23:35
+8017,She opened her eyes and saw a friendly ghost,2,Positive,2026-03-25 20:23:35
+8016,"In the middle of the night, Amy heard a soft sound",0,Neutral,2026-03-25 20:23:35
+8015,She put on her pajamas and went to bed,0,Neutral,2026-03-25 20:23:35
+8014,Amy was very sleepy,4,Positive,2026-03-25 20:23:35
+8013,"Once upon a time, in a small house, there lived a little girl named Amy",0,Neutral,2026-03-25 20:23:35
+8012,They played and had fun all day,7,Positive,2026-03-25 20:23:35
+8011,Mia and the bird were friends,2,Positive,2026-03-25 20:23:35
+8010,It was not scary anymore,-2,Negative,2026-03-25 20:23:35
+8009,The bird flew out and was happy,6,Positive,2026-03-25 20:23:35
+8008,Mia opened the birdcage door,-3,Negative,2026-03-25 20:23:35
+8007,Mia wanted to help the bird,1,Positive,2026-03-25 20:23:35
+8006,It wanted to fly and be free,5,Positive,2026-03-25 20:23:35
+8005,The bird was sad,-5,Negative,2026-03-25 20:23:35
+8004,"Inside the birdcage, there was a little bird",0,Neutral,2026-03-25 20:23:35
+8003,"In the house, Mia saw a birdcage",-3,Negative,2026-03-25 20:23:35
+8002,"Mia was brave, so she went inside the house",3,Positive,2026-03-25 20:23:35
+8001,It had a tall door and small windows,0,Neutral,2026-03-25 20:23:35
+8000,"She saw a big, scary house",-5,Negative,2026-03-25 20:23:35
+7999,"One day, a girl named Mia went for a walk",-3,Negative,2026-03-25 20:23:35
+7998,He wore his dark hat and drew pictures every day,0,Neutral,2026-03-25 20:23:35
+7997,Tim was very happy with his new pencil,10,Positive,2026-03-25 20:23:35
+7996,"He drew a sun, a tree, and a cat",0,Neutral,2026-03-25 20:23:35
+7995,Tim drew pictures with the pencil,0,Neutral,2026-03-25 20:23:35
+7994,He put the pencil in his hat and took it with him,0,Neutral,2026-03-25 20:23:35
+7993,Tim liked the pencil a lot,4,Positive,2026-03-25 20:23:35
+7992,The pencil was small and yellow,0,Neutral,2026-03-25 20:23:35
+7991,"One day, Tim found a pencil on the ground",0,Neutral,2026-03-25 20:23:35
+7990,Tim wore the hat everywhere he went,0,Neutral,2026-03-25 20:23:35
+7989,The hat was his favorite thing to wear,5,Positive,2026-03-25 20:23:35
+7988,"He liked to wear a big, dark hat",4,Positive,2026-03-25 20:23:35
+7987,"Once upon a time, there was a boy named Tim",0,Neutral,2026-03-25 20:23:35
+7986,"And from that day on, they had even more fun at the park, knowing that they had the fastest and most dependable car around",6,Positive,2026-03-25 20:23:35
+7985,They knew that their love for each other and their trust in Dependable made them win the race,9,Positive,2026-03-25 20:23:35
+7984,"In the end, Dependable won the race! The family was so happy and proud of their car",9,Positive,2026-03-25 20:23:35
+7983,"The other cars tried to catch up, but Dependable was too quick",0,Neutral,2026-03-25 20:23:35
+7982,"The race started, and Dependable went very fast",4,Positive,2026-03-25 20:23:35
+7981,"So, they decided to join the race",3,Positive,2026-03-25 20:23:35
+7980,They knew that Dependable was very fast and could win the race,10,Positive,2026-03-25 20:23:34
+7979,"One day, when they got to the park, they saw a big sign that said, ""Fun Race Today!"" The family was very excited",10,Positive,2026-03-25 20:23:34
+7978,They all had a lot of love for each other,6,Positive,2026-03-25 20:23:34
+7977,"The family had a mom, dad, and a little girl named Lily",0,Neutral,2026-03-25 20:23:34
+7976,Dependable would take a family to the park every day,0,Neutral,2026-03-25 20:23:34
+7975,He had a very important job,7,Positive,2026-03-25 20:23:34
+7974,"Once upon a time, there was a big car named Dependable",0,Neutral,2026-03-25 20:23:34
+7973,"Tim and Sam had a great day together, speeding in the loud car and playing in the park",7,Positive,2026-03-25 20:23:34
+7972,They ran and laughed until it was time to go home,5,Positive,2026-03-25 20:23:34
+7971,"At last, they stopped at the park to play",1,Positive,2026-03-25 20:23:34
+7970,"The car was very loud, and everyone could hear them coming",4,Positive,2026-03-25 20:23:34
+7969,"They drove around the town, going fast and having fun",5,Positive,2026-03-25 20:23:34
+7968,"""Do you want to go for a ride?"" ""Yes, please!"" Sam said, and he got in the car",6,Positive,2026-03-25 20:23:34
+7967,"""Hi, Sam!"" Tim called out",0,Neutral,2026-03-25 20:23:34
+7966,"As he drove, he saw his friend, Sam, standing by the road",5,Positive,2026-03-25 20:23:34
+7965,He loved to speed down the street and feel the wind in his hair,6,Positive,2026-03-25 20:23:34
+7964,"One day, a fast driver named Tim went for a ride in his loud car",0,Neutral,2026-03-25 20:23:34
+7963,And Max and his friends played happily in the park ever after,8,Positive,2026-03-25 20:23:34
+7962,"He learned that sometimes, it was good to slow down and listen to his body",4,Positive,2026-03-25 20:23:34
+7961,""" Max was so happy that he could play with his friends without pain",9,Positive,2026-03-25 20:23:34
+7960,Now I can play with my friends again,7,Positive,2026-03-25 20:23:34
+7959,"He said, ""Thank you, Owl, for your help",6,Positive,2026-03-25 20:23:34
+7958,"At first, it hurt a little, but soon Max felt better",4,Positive,2026-03-25 20:23:34
+7957,""" So Max tested his knee by walking slowly",0,Neutral,2026-03-25 20:23:34
+7956,Try to walk slowly and see if it still hurts,-5,Negative,2026-03-25 20:23:34
+7955,"What can I do?"" The owl thought for a moment and said, ""Max, you should test your knee",0,Neutral,2026-03-25 20:23:34
+7954,"Max went to his friend, the wise old owl, and said, ""Owl, my knee hurts",5,Positive,2026-03-25 20:23:34
+7953,"One day, Max was running very fast when he fell and hurt his knee",-1,Negative,2026-03-25 20:23:34
+7952,Max loved to run and play with his friends in the park,9,Positive,2026-03-25 20:23:34
+7951,"Once upon a time, there was a clever little dog named Max",5,Positive,2026-03-25 20:23:34
+7950,They celebrated with their friends and had a great day at the park,9,Positive,2026-03-25 20:23:34
+7949,They were both so happy and proud of themselves,8,Positive,2026-03-25 20:23:34
+7948,"In the end, Tim won the race and Sarah came in second",6,Positive,2026-03-25 20:23:34
+7947,They could feel the wind in their hair as they raced to the finish line,0,Neutral,2026-03-25 20:23:34
+7946,"Tim and Sarah ran with all their speed, laughing and having fun",8,Positive,2026-03-25 20:23:34
+7945,"When they heard the word ""Go!"", they started running as fast as they could",0,Neutral,2026-03-25 20:23:34
+7944,"Tim went to his friend, Sarah, and said, ""Let's start the race!"" Sarah smiled and said, ""Yes, let's go!"" They lined up with the other kids and waited for the race to begin",9,Positive,2026-03-25 20:23:34
+7943,He was excited and wanted to join the race,6,Positive,2026-03-25 20:23:34
+7942,"One day, Tim saw a race in the park",0,Neutral,2026-03-25 20:23:34
+7941,Tim loved to run and play outside,7,Positive,2026-03-25 20:23:34
+7940,"Once upon a time, in a peaceful town, there lived a little boy named Tim",5,Positive,2026-03-25 20:23:34
+7939,"And when she saw puddles, she would smile and remember how she found her toy",4,Positive,2026-03-25 20:23:34
+7938,She played with her triangle every day and always kept it close to her,3,Positive,2026-03-25 20:23:34
+7937,"From that day on, Lily was never troubled again",4,Positive,2026-03-25 20:23:34
+7936,Lily pulled it out and saw that it was her triangle! She was so happy that she found it,7,Positive,2026-03-25 20:23:34
+7935,She felt something at the bottom of the puddle,0,Neutral,2026-03-25 20:23:34
+7934,She put her hand in the water to soak it and looked for her toy,5,Positive,2026-03-25 20:23:33
+7933,She saw a big puddle of water and thought her triangle might be there,0,Neutral,2026-03-25 20:23:33
+7932,"One sunny day, Lily went to the park to play",6,Positive,2026-03-25 20:23:33
+7931,She looked everywhere in her house but could not find it,-6,Negative,2026-03-25 20:23:33
+7930,"She was always sad because she lost her favorite toy, a triangle",-3,Negative,2026-03-25 20:23:33
+7929,"Once upon a time, in a small town, there was a troubled little girl named Lily",-5,Negative,2026-03-25 20:23:33
+7928,"So, the brown kayak kept rolling in the water, waiting for the next fun day with Tim",5,Positive,2026-03-25 20:23:33
+7927,"The brown kayak was sad to see Tim go, but it knew they would play together again soon",3,Positive,2026-03-25 20:23:33
+7926,He said goodbye to the brown kayak and gave it a big hug,5,Positive,2026-03-25 20:23:33
+7925,"After a while, it was time for Tim to go home",0,Neutral,2026-03-25 20:23:33
+7924,"The sun was shining, and the water was warm",2,Positive,2026-03-25 20:23:33
+7923,They laughed and had a lot of fun,7,Positive,2026-03-25 20:23:33
+7922,Tim and the brown kayak rolled in the water together,0,Neutral,2026-03-25 20:23:33
+7921,"One day, a little boy named Tim came to play with the brown kayak",3,Positive,2026-03-25 20:23:33
+7920,It was very happy when it could roll and splash in the lake,10,Positive,2026-03-25 20:23:33
+7919,The brown kayak liked to roll in the water all day long,4,Positive,2026-03-25 20:23:33
+7918,"Once upon a time, in a big lake, there was a brown kayak",0,Neutral,2026-03-25 20:23:33
+7917,And they all lived happily ever after,6,Positive,2026-03-25 20:23:33
+7916,"Lily, the cat, and the dog were happy they could play without the cobweb in the way",7,Positive,2026-03-25 20:23:33
+7915,"The spider was sad, but it found a new home outside",-3,Negative,2026-03-25 20:23:33
+7914,They all worked together to clean the cobweb,4,Positive,2026-03-25 20:23:33
+7913,"Lily asked her friends, the cat and the dog, to help her",7,Positive,2026-03-25 20:23:33
+7912,"She wanted to get rid of it, but she was scared of the spider that lived there",-6,Negative,2026-03-25 20:23:33
+7911,The cobweb was in the way of her fun game,5,Positive,2026-03-25 20:23:33
+7910,"One day, while playing in the castle, Lily found a big cobweb",2,Positive,2026-03-25 20:23:33
+7909,"She lived in a big castle with her best friends, a cat and a dog",8,Positive,2026-03-25 20:23:33
+7908,Lily liked to pretend she was a popular princess,6,Positive,2026-03-25 20:23:33
+7907,"Once upon a time, there was a little girl named Lily",0,Neutral,2026-03-25 20:23:33
+7906,And they all lived happily ever after,6,Positive,2026-03-25 20:23:33
+7905,The cherry tree learned that being different can be a good thing,4,Positive,2026-03-25 20:23:33
+7904,The cherry tree was happy because it had many friends now,8,Positive,2026-03-25 20:23:33
+7903,All the animals in the land came to eat the cherries and play under the cherry tree,3,Positive,2026-03-25 20:23:33
+7902,"As time went on, the cherry tree grew more and more cherries",0,Neutral,2026-03-25 20:23:33
+7901,""" The cherry tree started to feel a little better",4,Positive,2026-03-25 20:23:33
+7900,"The wind said, ""You are special because you have sweet cherries that everyone loves",9,Positive,2026-03-25 20:23:33
+7899,The wind told the cherry tree not to be sad,-2,Negative,2026-03-25 20:23:33
+7898,It was a little spring wind,0,Neutral,2026-03-25 20:23:33
+7897,"One day, the cherry tree felt a tickle in its branches",0,Neutral,2026-03-25 20:23:33
+7896,The cherry tree was envious of the big trees,-3,Negative,2026-03-25 20:23:33
+7895,"All the other trees were big and strong, but the cherry tree was small and weak",-4,Negative,2026-03-25 20:23:33
+7894,The cherry tree was very sad because it did not have any friends,-9,Negative,2026-03-25 20:23:33
+7893,"Once upon a time, in a land full of trees, there was a little cherry tree",0,Neutral,2026-03-25 20:23:33
+7892,"Let's play together!"" And so, Fin and the crab played and became good friends",9,Positive,2026-03-25 20:23:32
+7891,I don't feel like I will freeze now,-2,Negative,2026-03-25 20:23:32
+7890,"He saw Fin and said, ""Thank you, little fish, for making me feel fine",5,Positive,2026-03-25 20:23:32
+7889,The crab started to feel better and not so cold,-2,Negative,2026-03-25 20:23:32
+7888,"So, Fin swam to the top of the water and called to the sun, ""Please, sun, help my new friend feel fine and not freeze!"" The sun heard Fin's call and shone its warm light on the shore",3,Positive,2026-03-25 20:23:32
+7887,He remembered that the sun could make things warm,2,Positive,2026-03-25 20:23:32
+7886,He swam away and thought of a plan,0,Neutral,2026-03-25 20:23:32
+7885,""" Fin felt sad but wanted to help the crab feel better",7,Positive,2026-03-25 20:23:32
+7884,I am cold and I don't feel fine,-2,Negative,2026-03-25 20:23:32
+7883,"The crab looked at Fin and said, ""No, I don't want to play",-5,Negative,2026-03-25 20:23:32
+7882,"Do you want to play?"" asked the little fish",4,Positive,2026-03-25 20:23:32
+7881,"""Hi, I am Fin",0,Neutral,2026-03-25 20:23:32
+7880,He saw a big crab and wanted to be friends,5,Positive,2026-03-25 20:23:32
+7879,"One day, a little fish named Fin was swimming near the shore",0,Neutral,2026-03-25 20:23:32
+7878,And Beep lived happily ever after,6,Positive,2026-03-25 20:23:32
+7877,"Now, Beep was ready to go fast and play again the next day",6,Positive,2026-03-25 20:23:32
+7876,He went to the fuel place and got more healthy fuel,5,Positive,2026-03-25 20:23:32
+7875,"When it was time to go home, Beep knew he needed more fuel",0,Neutral,2026-03-25 20:23:32
+7874,Beep played with the falling leaves all day,2,Positive,2026-03-25 20:23:32
+7873,He laughed and beeped his horn,5,Positive,2026-03-25 20:23:32
+7872,Beep drove under the tree and watched the leaves fall on him,0,Neutral,2026-03-25 20:23:32
+7871,Beep liked how the leaves fall and wanted to play with them,6,Positive,2026-03-25 20:23:32
+7870,The tree had many leaves that were falling,-2,Negative,2026-03-25 20:23:32
+7869,"One day, Beep was driving in the park when he saw a big tree",0,Neutral,2026-03-25 20:23:32
+7868,Good fuel made Beep happy and strong,9,Positive,2026-03-25 20:23:32
+7867,Beep was a healthy car because he always had good fuel,7,Positive,2026-03-25 20:23:32
+7866,Beep loved to go fast and play in the sun,7,Positive,2026-03-25 20:23:32
+7865,"Once upon a time, there was a little car named Beep",0,Neutral,2026-03-25 20:23:32
+7864,They both felt happy because they had shared and worked together,7,Positive,2026-03-25 20:23:32
+7863,"After they finished, Lily thanked her mom for sharing the needle and fixing her shirt",7,Positive,2026-03-25 20:23:32
+7862,It was not difficult for them because they were sharing and helping each other,1,Positive,2026-03-25 20:23:32
+7861,""" Together, they shared the needle and sewed the button on Lily's shirt",3,Positive,2026-03-25 20:23:32
+7860,"Can you share it with me and sew my shirt?"" Her mom smiled and said, ""Yes, Lily, we can share the needle and fix your shirt",9,Positive,2026-03-25 20:23:32
+7859,"Lily went to her mom and said, ""Mom, I found this needle",0,Neutral,2026-03-25 20:23:32
+7858,"wanted to share the needle with her mom, so she could sew a button on her shirt",3,Positive,2026-03-25 20:23:32
+7857,"not good
+very good",-8,Negative,2026-03-25 19:34:21
+7856,climate,0,Neutral,2026-03-25 19:17:52
+7855,rohith sharma is greatest batsman,6,Positive,2026-03-25 19:16:53
