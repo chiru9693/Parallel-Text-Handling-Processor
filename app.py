@@ -18,6 +18,10 @@ st.caption("Large file support + analytics + performance tracking")
 
 tab1, tab2, tab3 = st.tabs(["📊 Dashboard", "🔍 Search", "📁 Export"])
 
+# 🔥 ADD THIS (DO NOT REMOVE)
+if "search_results" not in st.session_state:
+    st.session_state.search_results = []
+
 
 # ================= HELPER ================= #
 def create_dataframe(data):
@@ -209,7 +213,6 @@ with tab1:
         col3.metric("Negative", (df["Sentiment"] == "Negative").sum())
         col4.metric("Neutral", (df["Sentiment"] == "Neutral").sum())
 
-        # 🔥 FIX: Always show all categories
         sent_counts = df["Sentiment"].value_counts().reindex(
             ["Positive","Negative","Neutral"], fill_value=0
         )
@@ -227,7 +230,6 @@ with tab1:
             use_container_width=True
         )
 
-        # WORD ANALYSIS
         total_pos = 0
         total_neg = 0
         total_neutral = 0
@@ -255,7 +257,6 @@ with tab1:
 
         st.bar_chart(word_df.set_index("Type"))
 
-        # 🔥 FIX: ADD PIE
         st.altair_chart(
             alt.Chart(word_df).mark_arc().encode(
                 theta="Count",
@@ -292,6 +293,9 @@ with tab2:
 
         results = search(keyword, selected, min_score)
 
+        # 🔥 ADD THIS (STORE RESULTS)
+        st.session_state.search_results = results
+
         df = create_dataframe(results)
 
         if df is not None:
@@ -306,7 +310,25 @@ with tab3:
 
     st.header("📁 Export Data")
 
+    option = st.selectbox("Export Type", ["Database Data", "Search Results"])
+
     if st.button("Generate CSV"):
-        file = export_csv()
+
+        if option == "Database Data":
+            file = export_csv()
+
+        else:
+            if not st.session_state.search_results:
+                st.warning("No search results available")
+                st.stop()
+
+            df = pd.DataFrame(
+                st.session_state.search_results,
+                columns=["ID","Text","Score","Sentiment","Time"]
+            )
+
+            file = "search_results.csv"
+            df.to_csv(file, index=False)
+
         with open(file, "rb") as f:
-            st.download_button("Download CSV", f, file_name="results.csv")
+            st.download_button("Download CSV", f, file_name=file)
