@@ -16,6 +16,7 @@ def create_table():
     """)
     conn.commit()
 
+
 def insert(text, score, sentiment):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -25,9 +26,11 @@ def insert(text, score, sentiment):
     )
     conn.commit()
 
+
 def fetch_all():
     cursor.execute("SELECT * FROM reviews ORDER BY id DESC")
     return cursor.fetchall()
+
 
 def clear_data():
     cursor.execute("DELETE FROM reviews")
