@@ -121,6 +121,12 @@ with tab1:
                 output["parallel_time"] += result["parallel_time"]
                 output["cores_used"] = result["cores_used"]
 
+                # 🔥 ADD THESE (Milestone-4 aggregation)
+                if "original_count" in result:
+                    output["original_count"] = output.get("original_count", 0) + result["original_count"]
+                    output["optimized_count"] = output.get("optimized_count", 0) + result["optimized_count"]
+                    output["optimize_time"] = output.get("optimize_time", 0) + result["optimize_time"]
+
                 progress.progress(min((i + batch_size) / len(texts), 1.0))
 
             end = time.time()
@@ -132,6 +138,13 @@ with tab1:
         col2.metric("Parallel Time", round(output["parallel_time"], 2))
         col3.metric("CPU Cores", output["cores_used"])
         col4.metric("Total Time", round(end - start, 2))
+
+        # 🔥 MILESTONE 4 DISPLAY
+        if "original_count" in output:
+            col5, col6, col7 = st.columns(3)
+            col5.metric("Original Records", output["original_count"])
+            col6.metric("Optimized Records", output["optimized_count"])
+            col7.metric("Optimization Time", round(output["optimize_time"], 2))
 
         st.info("Parallel is slower for small data, faster for large datasets.")
 
@@ -293,7 +306,6 @@ with tab2:
 
         results = search(keyword, selected, min_score)
 
-        # 🔥 ADD THIS (STORE RESULTS)
         st.session_state.search_results = results
 
         df = create_dataframe(results)
