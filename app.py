@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import time
 import altair as alt
+import smtplib
+from email.message import EmailMessage
 
 from database import create_table, fetch_all, insert, clear_data
 from processor import process_texts
@@ -21,6 +23,8 @@ tab1, tab2, tab3 = st.tabs(["📊 Dashboard", "🔍 Search", "📁 Export"])
 # 🔥 ADD THIS (DO NOT REMOVE)
 if "search_results" not in st.session_state:
     st.session_state.search_results = []
+if "generated_file" not in st.session_state:
+    st.session_state.generated_file = None
 
 
 # ================= HELPER ================= #
@@ -28,6 +32,33 @@ def create_dataframe(data):
     if not data:
         return None
     return pd.DataFrame(data, columns=["ID","Text","Score","Sentiment","Time"])
+def send_email_with_attachment(receiver_email, file_path):
+
+    sender_email = "your_email@gmail.com"      # CHANGE
+    sender_password = "your_app_password"      # CHANGE
+
+    msg = EmailMessage()
+    msg["Subject"] = "Parallel Text Report"
+    msg["From"] = sender_email
+    msg["To"] = receiver_email
+
+    msg.set_content("Attached is your CSV report.")
+
+    with open(file_path, "rb") as f:
+        msg.add_attachment(
+            f.read(),
+            maintype="application",
+            subtype="octet-stream",
+            filename=file_path
+        )
+
+    try:
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+            smtp.login(sender_email, sender_password)
+            smtp.send_message(msg)
+        return True
+    except:
+        return False
 
 
 # ================= DASHBOARD ================= #
@@ -324,7 +355,19 @@ with tab3:
 
     option = st.selectbox("Export Type", ["Database Data", "Search Results"])
 
-    if st.button("Generate CSV"):
+    # 🔥 NEW EMAIL INPUT
+    email = st.text_input("Enter Email to send report")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        generate_btn = st.button("Generate CSV")
+
+    with col2:
+        send_btn = st.button("📧 Send Email Report")
+
+    # ===== GENERATE =====
+    if generate_btn:
 
         if option == "Database Data":
             file = export_csv()
@@ -342,5 +385,27 @@ with tab3:
             file = "search_results.csv"
             df.to_csv(file, index=False)
 
+        st.session_state.generated_file = file
+
         with open(file, "rb") as f:
             st.download_button("Download CSV", f, file_name=file)
+
+    # ===== EMAIL =====
+if send_btn:
+
+    if not email:
+        st.warning("Enter email first")
+        st.stop()
+
+    if not st.session_state.generated_file:
+        st.warning("Generate file first")
+        st.stop()
+
+    file = st.session_state.generated_file
+
+    success = send_email_with_attachment(email, file)
+
+    if success:
+        st.success("📧 Email sent successfully!")
+    else:
+        st.error("❌ Failed to send email (Check App Password)")
