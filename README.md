@@ -2,203 +2,210 @@
 
 ## 📌 Project Overview
 
-The **Parallel Text Handling Processor** is a data processing and sentiment analysis application built using Streamlit.
-It allows users to upload large text-based datasets (TXT, CSV, Excel), process them efficiently using **parallel computing**, and perform **sentiment analysis** with real-time visualization.
+The **Parallel Text Handling Processor** is a high-performance data processing and sentiment analysis application built using **Streamlit**.
 
-The system is designed to handle **large datasets (50,000+ records)** while maintaining performance and stability.
+It enables users to upload large text datasets (TXT, CSV, Excel), process them efficiently using **parallel computing**, perform **sentiment analysis**, and generate **downloadable/email reports** with real-time visualization.
+
+The system is optimized to handle **large datasets (50,000+ records)** with stability and performance.
 
 ---
 
 ## ✨ Features Implemented
 
 ### 📂 File Upload
-
-* Supports:
-
-  * TXT files
-  * CSV files
-  * Excel files
-* Multiple file upload supported
-* Handles large files using chunk processing
-* Extracts text from all columns
+- Supports:
+  - TXT files
+  - CSV files
+  - Excel files
+- Multiple file upload supported
+- Chunk-based reading for large files
+- Extracts text from all columns
 
 ---
 
-### ⚙️ Processing
+### ⚙️ Processing Engine
 
-* Sequential (normal) processing
-* Parallel processing using `ThreadPoolExecutor`
-* Batch processing for large datasets (chunk size = 5000)
-* Performance metrics displayed:
+- Sequential (Normal) Processing
+- Parallel Processing using `ProcessPoolExecutor`
+- Batch Processing (Chunk size = 5000)
+- Performance Metrics:
+  - Normal execution time
+  - Parallel execution time
+  - CPU cores used
 
-  * Normal execution time
-  * Parallel execution time
-  * CPU cores used
+---
+
+### ⚡ Data Optimization (NEW)
+
+- Duplicate record removal
+- Reduces redundant data
+- Improves processing efficiency
+- Metrics displayed:
+  - Original records count
+  - Optimized records count
+  - Optimization time
 
 ---
 
 ### 📊 Dashboard
 
-* Total records processed
-* Sentiment distribution:
-
-  * Positive
-  * Negative
-  * Neutral
-* Visualizations:
-
-  * Bar chart
-  * Pie chart
-* Word-level analysis:
-
-  * Total positive words
-  * Total negative words
-  * Total neutral words
+- Total records processed
+- Sentiment distribution:
+  - Positive
+  - Negative
+  - Neutral
+- Visualizations:
+  - Bar Chart
+  - Pie Chart
+- Word-level analytics:
+  - Total positive words
+  - Total negative words
+  - Total neutral words
 
 ---
 
 ### ✍️ Manual Text Analysis
 
-* User can input custom text
-* Displays:
-
-  * Sentiment score
-  * Final sentiment
-  * Positive/Negative/Neutral word counts
-* Visualized using:
-
-  * Bar chart
-  * Pie chart
+- Analyze custom user input
+- Displays:
+  - Sentiment score
+  - Final sentiment
+  - Positive / Negative / Neutral word counts
+- Visualizations:
+  - Bar chart
+  - Pie chart
 
 ---
 
-### 🔍 Search Functionality
+### 🔍 Smart Search
 
-* Search by keyword
-* Filter by:
-
-  * Sentiment
-  * Minimum score
-* Smart fallback:
-
-  * If no database result found → analyzes keyword and returns result
+- Keyword-based search
+- Filters:
+  - Sentiment
+  - Minimum score
+- Intelligent fallback:
+  - If no result → real-time sentiment analysis of keyword
 
 ---
 
 ### 📁 Export
 
-* Export processed data to CSV
-* Download directly from UI
+- Export processed data to CSV
+- Download directly from UI
 
 ---
 
-### 🧹 UI Improvements
+### 📧 Email Report (NEW)
 
-* Reset/Clear database button
-* File count display
-* Total extracted records display
-* Progress bar + loading spinner
+- Send CSV reports via email
+- Uses SMTP (Gmail App Password authentication)
+- Supports:
+  - Database data report
+  - Search results report
+
+---
+
+### 🧹 UI Enhancements
+
+- Reset/Clear database button
+- File count display
+- Total extracted records display
+- Progress bar
+- Loading spinner
 
 ---
 
 ## ⚡ Parallel Processing Logic
 
-The system processes text in two modes:
-
 ### 1. Sequential Processing
-
-* Each record is processed one by one
-* Slower for large datasets
+- Processes records one-by-one
+- Slower for large datasets
 
 ### 2. Parallel Processing
-
-* Uses `ThreadPoolExecutor`
-* Multiple threads process records simultaneously
-* Utilizes multiple CPU cores
+- Uses `ProcessPoolExecutor`
+- Utilizes multiple CPU cores
+- Processes records concurrently
 
 ### 🧠 Key Insight
 
-* For small datasets → parallel may be slower (due to thread overhead)
-* For large datasets → parallel is significantly faster
+- Small datasets → Parallel slower (overhead cost)
+- Large datasets → Parallel significantly faster
 
 ---
 
 ## 😊 Sentiment Analysis Logic
 
-The system uses **VADER (Valence Aware Dictionary and sEntiment Reasoner)**.
+Uses **VADER (Valence Aware Dictionary and sEntiment Reasoner)**.
 
-### How it works:
+### Workflow:
+- Text cleaning & tokenization
+- Compound score calculation
+- Lexicon-based word evaluation
 
-* Text is cleaned and tokenized
-* VADER computes a **compound score**
-* Words are checked against the VADER lexicon
+### Enhancements:
 
-### Enhancements implemented:
-
-* ✔ Repeated words handling
+- ✔ Repeated words handling  
   Example: `good good bad → Positive`
-* ✔ Negation handling
-  Example: `not good → Negative`
-* ✔ Intensifier handling
-  Example: `very good → Strong Positive`
-* ✔ Word-level counting:
 
-  * Positive words
-  * Negative words
-  * Neutral words
+- ✔ Negation handling  
+  Example: `not good → Negative`
+
+- ✔ Intensifier handling  
+  Example: `very good → Strong Positive`
+
+- ✔ Word-level classification:
+  - Positive words
+  - Negative words
+  - Neutral words
 
 ---
 
-## 📊 Dataset Details
+## 📊 Dataset Support
 
-* Supports any textual dataset
-* Tested with:
-
-  * Random text datasets
-  * CSV/Excel structured data
-  * Large datasets (50K+ records)
-* Extracts all textual values from uploaded files
+- Supports structured & unstructured text data
+- Tested with:
+  - CSV datasets
+  - Excel datasets
+  - Large datasets (50K+ records)
+- Extracts all textual values dynamically
 
 ---
 
 ## ⚡ Performance Comparison
 
 | Mode       | Behavior                     |
-| ---------- | ---------------------------- |
-| Sequential | Slower, processes one-by-one |
-| Parallel   | Faster for large datasets    |
+|-----------|-----------------------------|
+| Sequential | Slower, single-threaded     |
+| Parallel   | Faster for large datasets   |
 
 ### Example:
-
-* 50K records:
-
-  * Sequential → Higher time
-  * Parallel → Reduced time
+- 50K records:
+  - Sequential → Higher time
+  - Parallel → Reduced time
 
 ---
 
 ## ⚠️ Edge Cases Handled
 
-* Empty file upload
-* Invalid file format
-* Large file handling
-* Memory overflow prevention
-* No data extracted scenario
-* Empty user input
-* No search results → fallback logic
-* Repeated words in text
-* Neutral word detection
+- Empty file upload
+- Invalid file formats
+- Large dataset handling
+- Memory overflow prevention
+- No extracted data scenario
+- Empty user input
+- No search results (fallback logic)
+- Duplicate data removal
+- Neutral word detection
 
 ---
 
 ## 🧪 Dataset Handling
 
-* Supports up to **50,000 records safely**
-* Uses:
-
-  * Chunk processing (CSV)
-  * Batch processing (5000 records)
-* Prevents crashes and improves performance
+- Supports up to **50,000 records safely**
+- Uses:
+  - Chunk processing (CSV)
+  - Batch processing (5000 records)
+- Prevents crashes and improves performance
 
 ---
 
@@ -208,56 +215,3 @@ The system uses **VADER (Valence Aware Dictionary and sEntiment Reasoner)**.
 
 ```bash
 pip install streamlit pandas altair vaderSentiment
-```
-
-### 2. Activate virtual environment (optional)
-
-```bash
-.\.venv\Scripts\activate
-```
-
-### 3. Run the application
-
-```bash
-streamlit run app.py
-```
-
-### 4. Open in browser
-
-```
-http://localhost:8501
-```
-
----
-
-## 🔍 Performance & Optimization
-
-* Batch processing reduces memory usage
-* Chunk processing avoids loading full dataset
-* Parallel execution improves speed
-* Database operations optimized (bulk insert)
-
----
-
-## 🚀 Future Improvements
-
-* Machine Learning / Deep Learning models
-* Support for 1M+ datasets
-* Cloud deployment (AWS / Azure)
-* Real-time streaming data analysis
-* Advanced NLP (context-aware sentiment)
-
----
-
-## 🎯 Conclusion
-
-This project demonstrates:
-
-* Efficient large dataset handling
-* Parallel computing
-* Real-time sentiment analysis
-* Interactive data visualization
-
-It is designed to be **scalable, efficient, and user-friendly**, making it suitable for real-world data analysis applications.
-
----
